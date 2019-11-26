@@ -16,7 +16,7 @@
 	<meta name="keywords" content="agency, bootstrap, business, corporate, creative, minimal, modern, onepage, personal, portfolio,  html5, responsive">
 	<meta name="author" content="Swan Lake - Lead Generation Marketing Landing Page">
 	<!-- Page Title -->
-	<title>Dr.Alexandre</title>
+	<title>Dr.Alexandre </title>
 	<!-- include the site stylesheet -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700%7cUbuntu:400,700" rel="stylesheet">
 	<!-- include the site stylesheet -->
@@ -33,6 +33,7 @@
 	<link rel="stylesheet" href="assets/css/color.css">
 	<!-- Font Awsome -->
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	
 	
 </head>
 <body>
@@ -167,14 +168,7 @@
 									<span class="divider"></span>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been standard. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
 								</header>
-								<ul class="list list-unstyled">
-									<li><i class="fa fa-caret-right" aria-hidden="true"></i>Responsive Design</li>
-									<li><i class="fa fa-caret-right" aria-hidden="true"></i>Great Support</li>
-									<li><i class="fa fa-caret-right" aria-hidden="true"></i>Look great on any devices</li>
-									<li><i class="fa fa-caret-right" aria-hidden="true"></i>Highest Speed</li>
-									<li><i class="fa fa-caret-right" aria-hidden="true"></i>Fresh Design</li>
-									<li><i class="fa fa-caret-right" aria-hidden="true"></i>Useful and Intuitive Interface</li>
-								</ul>
+								
 							</div>
 						</div>
 						<div class="col-xs-12 col-md-6 col-md-pull-6 pad-bottom-sm">
@@ -182,36 +176,21 @@
 							<ul class="services-box list-unstyled text-center" style="background-image: url(http://placehold.it/550x460);">
 								<li>
 									<div class="over">
-										<span class="fa fa-mobile main-color"></span>
-										<span class="title text-uppercase main-color">Awesome Design</span>
-										<span class="divider white center"></span>
+										<!-- <span class="fa fa-mobile main-color"></span> -->
+										<span class="title text-uppercase ">hiperplasia da próstata</span>
+										<!-- <span class="divider white center"></span> -->
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
 									</div>
 								</li>
 								<li>
 									<div class="over">
 										<span class="fa fa-mobile main-color"></span>
-										<span class="title text-uppercase main-color">Responsive Layout</span>
+										<span class="title text-uppercase main-color">O laser em próstata</span>
 										<span class="divider white center"></span>
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
 									</div>
 								</li>
-								<li>
-									<div class="over">
-										<span class="fa fa-mobile main-color"></span>
-										<span class="title text-uppercase main-color">Easy to Customize</span>
-										<span class="divider white center"></span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
-									</div>
-								</li>
-								<li>
-									<div class="over">
-										<span class="fa fa-mobile main-color"></span>
-										<span class="title text-uppercase main-color">Full Support work</span>
-										<span class="divider white center"></span>
-										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
-									</div>
-								</li>
+							
 							</ul>
 							<!-- services box end here -->
 						</div>

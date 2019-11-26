@@ -1361,12 +1361,12 @@ body.boxed-v #wrapper {
 	height: 230px;
 	overflow: hidden;
 	position: relative;
-	background: #212121;
+	background: #00;
 }
 
 .services-section .services-box li:last-child,
 .services-section .services-box li:first-child {
-	background: rgba(33, 33, 33, .9);
+	background: rgba(217, 177, 102, .2);
 }
 
 .services-section .services-box li:hover .over {
@@ -1853,4 +1853,3 @@ body.boxed-v #wrapper {
 	height: auto;
 	width: 100%;
 }
-
