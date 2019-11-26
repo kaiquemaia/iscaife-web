@@ -16,7 +16,7 @@
 	<meta name="keywords" content="agency, bootstrap, business, corporate, creative, minimal, modern, onepage, personal, portfolio,  html5, responsive">
 	<meta name="author" content="Swan Lake - Lead Generation Marketing Landing Page">
 	<!-- Page Title -->
-	<title>Dr.asdasdada</title>
+	<title>Dr.Alexandre</title>
 	<!-- include the site stylesheet -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700%7cUbuntu:400,700" rel="stylesheet">
 	<!-- include the site stylesheet -->
