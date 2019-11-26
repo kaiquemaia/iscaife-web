@@ -55,7 +55,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(http://placehold.it/1920x1080);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/banner2.jpg);" data-scroll-index="0">
 				<span class="overlay"></span>
 				<div class="container">
 					<div class="row">
@@ -241,6 +241,8 @@
 								<h3 class="text-uppercase">Câncer de próstata</h3>
 								<p>Lorem, ipsum dolor sit amet consectetur </p>
 								</header>
+
+								
 								<div class="box">
 									
 									<span class="divider"></span>
@@ -276,7 +278,10 @@
 			</section>
 			<!-- price section end here -->
 			<!-- quote section start here -->
-			<section class="bg-img-full bg-img-parallax quote-section pad-top-lg pad-bottom-lg" style="background-image: url(http://placehold.it/1920x1080);">
+
+			<!-- background-image: url(http://placehold.it/1920x1080);" -->
+
+			<section class="bg-img-full bg-img-parallax quote-section pad-top-lg pad-bottom-lg" style="background-image: url(assets/images/banner.jpg);">
 				<span class="overlay"></span>
 				<div class="container">
 					<div class="row">

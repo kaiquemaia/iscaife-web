@@ -922,7 +922,7 @@ body.boxed-v #wrapper {
 }
 
 .top-list {
-	margin: 0;
+	margin-top: 19px;
 	font-family: "Ubuntu", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -1853,3 +1853,4 @@ body.boxed-v #wrapper {
 	height: auto;
 	width: 100%;
 }
+
