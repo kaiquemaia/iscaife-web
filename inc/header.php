@@ -42,7 +42,7 @@
 								<li><a href=""  ><img src="assets/images/us.png" alt="" width="23px"></a></li>
 								<li><a href=""  ><img src="assets/images/pt.png" alt="" width="23px"></a></li>
 								<li><a href=""  ><img src="assets/images/es.png" alt="" width="23px"></a></li>
-								<li class="button"><a href="#popup1" class="btn main-bg-color text-uppercase smooth" data-scroll-nav="1">Entrar em contato</a></li>
+								<li class="button"><a href="#popup1" class="btn main-bg-color text-uppercase smooth" data-scroll-nav="1">Agendar consulta</a></li>
 							</ul>
 							
 							

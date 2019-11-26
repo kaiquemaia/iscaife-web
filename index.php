@@ -60,8 +60,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-7">
-							<span class="title">Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
-							<h1 class="heading text-uppercase">Lorem ipsum dolor sit amet <span class="main-color">Swan Lake Template</span></h1>
+							<span class="title">Homem que se cuida não perde o melhor da vida</span>
+							<h1 class="heading text-uppercase">Medicina especializada em <span class="main-color">Saúde Masculina</span></h1>
 							<span class="divider white"></span>
 							<div class="btn-holder">
 								<a href="#" class="btn btn-default main-bg-color text-uppercase" data-scroll-nav="2">Saber Mais</a>
@@ -71,7 +71,7 @@
 						<div class="col-xs-12 col-sm-6 col-md-5">
 							<!-- quote form start here -->
 							<section class="quote-form" style="background-image: url(images/img02.jpg);" data-scroll-index="1">
-								<h2 class="form-heading text-center text-uppercase">Fale conosco</h2>
+								<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
 								<span class="form-title text-center">Nos mande uma mensagem</span>
 								<form id="contactForm" data-toggle="validator">
 									<fieldset>
@@ -307,7 +307,7 @@
 	    	<div id="popup1" class="lightbox">
 				<!-- quote form start here -->
 				<section class="quote-form" style="background-image: url(images/img02.jpg);">
-					<h2 class="form-heading text-center text-uppercase">Fale conosco</h2>
+					<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
 					<span class="form-title text-center">Nos mande uma mensagem</span>
 					<form id="contactForm" data-toggle="validator">
 									<fieldset>
