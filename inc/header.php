@@ -33,12 +33,12 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<ul class="nav-list list-inline">
-								<li><a href="#" data-scroll-nav="0" class="smooth">Home</a></li>
+								<li><a href="index.php" data-scroll-nav="0" class="smooth">Home</a></li>
                                 <li><a href="#" data-scroll-nav="2" class="smooth">Sobre o Dr.</a></li>
                                 <li><a href="#" data-scroll-nav="3" class="nav-link dropdown-toggle">Cirurgias</a></li>
 								<li><a href="#" data-scroll-nav="4" class="smooth">Doenças</a></li>
-								<li><a href="mailto:Mail@Example.com">Contato</a></li>
-								<li class="button"><a href="#" class="btn main-bg-color text-uppercase smooth" data-scroll-nav="1">Orçamento</a></li>
+								<li><a href="mailto:iscaifeboni@yahoo.com.br">Contato</a></li>
+								<li class="button"><a href="#popup1" class="btn main-bg-color text-uppercase smooth" data-scroll-nav="1">Entrar em contato</a></li>
                             </ul>
                             
 						</div>

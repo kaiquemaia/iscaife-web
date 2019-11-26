@@ -225,7 +225,7 @@
 									
 									<span class="divider"></span>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust...</p>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Ler mais</a>
+									<a href="hiperplasia.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
 								</div>
 							</div>
@@ -245,7 +245,7 @@
 									
 									<span class="divider"></span>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust...</p>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Ler mais</a>
+									<a href="cancer-de-prostata.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
 								</div>
 							</div>
@@ -265,7 +265,7 @@
 									
 									<span class="divider"></span>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust...</p>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Ler mais</a>
+									<a href="cancer-de-rim.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
 								</div>
 							</div>
