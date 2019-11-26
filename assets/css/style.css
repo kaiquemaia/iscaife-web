@@ -1361,7 +1361,7 @@ body.boxed-v #wrapper {
 	height: 230px;
 	overflow: hidden;
 	position: relative;
-	background: #00;
+	background: #000;
 }
 
 .services-section .services-box li:last-child,

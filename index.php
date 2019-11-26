@@ -171,22 +171,22 @@
 								
 							</div>
 						</div>
-						<div class="col-xs-12 col-md-6 col-md-pull-6 pad-bottom-sm">
+						<div class="col-xs-12 col-md-6 col-md-pull-7 pad-bottom-sm">
 							<!-- services box start here -->
-							<ul class="services-box list-unstyled text-center" style="background-image: url(http://placehold.it/550x460);">
+							<ul class="services-box list-unstyled text-center" >
 								<li>
 									<div class="over">
-										<!-- <span class="fa fa-mobile main-color"></span> -->
-										<span class="title text-uppercase ">hiperplasia da próstata</span>
+									<i class="fa fa-user-md"></i>
+										<span class="title text-uppercase "><a href="hiperplasia.php">hiperplasia da próstata</a></span>
 										<!-- <span class="divider white center"></span> -->
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
 									</div>
 								</li>
 								<li>
 									<div class="over">
-										<span class="fa fa-mobile main-color"></span>
-										<span class="title text-uppercase main-color">O laser em próstata</span>
-										<span class="divider white center"></span>
+									<i class="fa fa-user-md"></i>
+										<span class="title text-uppercase"><a href="#">O laser em próstata</a></span>
+										<!-- <span class="divider white center"></span> -->
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
 									</div>
 								</li>

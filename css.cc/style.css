@@ -98,9 +98,9 @@ textarea,
 .post-password-form
 textarea {
 	-webkit-appearance: none;
-	-webkit-border-radius: 10;git
-	border: 1px solid #999;
-	padding: .5em .7em;
+	-webkit-border-radius: 10;
+	border: 1px solid #fff;
+	padding: 5em , 7em;
 }
 
 .comment-form input[type="text"]:focus,
