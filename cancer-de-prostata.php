@@ -69,11 +69,7 @@
 				<div class="container">
 					<!-- main heading start here -->
 					<header class="main-heading row">
-						<div class="col-xs-12 col-sm-10 col-sm-push-1 col-lg-8 col-lg-push-2 text-center">
-							<h2 class="heading text-uppercase"><span class="main-color">CIRURGIAS</span></h2>
-							<span class="divider center"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-						</div>
+						
 					</header>
 					<div class="row">
 						<!-- about box start here -->
@@ -81,10 +77,11 @@
 							<!-- <span class="num main-color">01.</span> -->
 							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
 							<span class="divider"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust... <br>
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dolores aut tenetur laudantium atque optio corrupti doloribus corporis ullam delectus commodi deleniti consequuntur enim eveniet, et veritatis. Facilis, exercitationem iure.<br>
-							Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non minima magnam voluptatem error et deleniti est sapiente esse accusantium. Odio voluptas possimus eaque nostrum ipsam rem amet perferendis, at excepturi!</p>
-							
+							<h1>Breve epidemiologia</h1>
+							<p>O câncer de próstata (CaP) é a neoplasia mais frequente no homem, excetuando-se os tumores de pele. O principal fator de risco é a idade, sendo 65 anos a idade média ao diagnostico. Antes dos 40 anos sua ocorrência é extremamente rara. Outros fatores de risco são a raça (afrodescendentes têm maior chance de ter CaP e maior risco de tumores de tipo mais grave), o estilo de vida sedentário e a obesidade e antecedentes familiares de CaP (em parente de primeiro grau).</p>
+
+							<h1>Diagnóstico</h1>
+							<p>A grande maioria dos pacientes não apresenta sintomas ao diagnostico. Portanto, recomenda-se uma dosagem de PSA aos 40 anos. O valor de normalidade esperado para esta idade deve estar próximo de 1ng/ml. Após os 50 anos o PSA maior que 2,5ng/ml merece atenção e deve ser associado ao toque retal da próstata alterado para que se considere a necessidade de maiores investigações. As alterações no PSA e no toque devem desencadear uma sequência de exames variáveis, dependendo das características de cada indivíduo, para que se possa diferenciar doenças benignas como a hiperplasia benigna da próstata (HPB) e a prostatite do câncer de próstata. Abaixo discutiremos cada um dos métodos complementares. </p>
 						</div>
 						<!-- about box end here -->
 						<!-- about box start here -->
@@ -93,7 +90,39 @@
 							<img src="https://hilab.com.br/wp-content/uploads/2019/04/faca-exame-doutor.png" alt="">
 						</div>
 						<!-- about box end here -->
-						<p class="col-xs-12 col-sm-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum itaque aliquid aliquam omnis ducimus amet voluptas officia necessitatibus ipsam veniam laboriosam iusto, animi similique laborum deserunt veritatis obcaecati, exercitationem minima?</p>
+						<h1>Os sintomas críticos do aumento prostático</h1>
+						<p>
+							Um dos sintomas mais comuns é a redução do jato urinário. Além disso há aumento da frequência urinaria, principalmente a noite, o que prejudica muito a qualidade do sono. Outros sintomas incluem um desejo urgente de urinar, com eventuais perdas antes de chegar ao banheiro, dificuldade de iniciar a micção e sensação de esvaziamento incompleto da bexiga.
+							<br><br>
+							O quadro mais dramático é o da retenção urinaria, onde não é possível urinar necessitando de intervenção médica com passagem de sonda vesical ou até mesmo de cistostomia (colocação de uma sonda na bexiga pelo abdome via punção ou cirurgia). 
+							Quanto a evolução da hiperplasia, esta é progressiva, embora não exista uma clara relação entre tamanho da próstata e sintomas. Alguns pacientes apresentam próstatas pequenas e são bastante sintomáticos e pacientes com próstata extremamente grandes sem sintomas. 
+							<br><br>
+							Com o progresso da doença a bexiga passa a sofrer um processo de substituição da musculatura normal por tecido colágeno o que prejudica a função normal de esvaziamento da bexiga. Caso esse processo não seja interrompido pelo tratamento desobstrutivo da próstata a bexiga apresentara uma falência completa necessitando de cateterismo vesical definitivo.
+						
+							<h1>O diagnóstico e exames para avaliação da Hiperplasia Prostática Benigna</h1>
+							O diagnostico se inicia com a consulta clinica e o exame de toque retal da próstata que visa avaliar o tamanho e consistência além de avaliar outras doenças como o câncer de próstata. Além do exame físico utilizamos os seguintes exames auxiliares:
+								<br><br>
+							<b>PSA (Antígeno Prostático Específico)</b> – É uma glicoproteína produzida pela próstata que participa de processos envolvidos na ativação dos espermatozoides no liquido seminal. Pode ser dosada em varias formas, mas as mais utilizadas são sua forma total e a fração livre. Nos pacientes com HPB o PSA está frequentemente aumentado devido ao aumento da produção pela zona de transição aumentada, não indicando necessariamente a necessidade de biopsia, sendo cada caso avaliado com o urologista utilizando-se a relação PSA livre/total, a densidade do PSA em relação ao volume da zona de transição e mais recentemente utilizando-se da ressonância magnética multiparamétrica da próstata.
+							<br><br>
+							<b>Ultrassom da próstata</b> – Pode ser realizada por via abdominal e retal e por essa ultima via podemos avaliar a bexiga, presença de cálculos, tumores vesicais, o tamanho da próstata, sua forma e o resíduo na bexiga após a micção.
+							<br><br>
+							<b>Ultrassom Trans-retal da Prostata (USTR)</b> – Utilizamos na suspeita de câncer de próstata para realização de biópsia.
+							<br><br>
+							<b>Urofluxometria livre</b> – Exame simples e não invasivo de suma importância pelo qual podemos saber a velocidade do fluxo e a forma da curva produzida em um gráfico de volume pelo tempo de micção. 
+							<br><br>
+							<b>Estudo urodinâmico</b> – Exame invasivo pelo qual são avaliados parâmetros de pressão e fluxo urinário durante enchimento e esvaziamento da bexiga em uma situação que tenta reproduzir a micção em um ambiente controlado. Não é fundamental na avaliação da HPB mas pode ser solicitado em situações especificas. 
+							<br><br>
+							<b>Exame de urina</b> – É útil na identificação de infecções associadas a HPB e também para avaliar presença de sangue que pode indicar um sangramento prostático ou de algum tumor de bexiga ou do trato urinário superior.
+							<br><br>
+							<b>Ressonância Magnética da Próstata</b> – Utilizamos em casos de suspeita de câncer de próstata antes ou depois de uma biópsia, nesses casos a ressonância que realizamos é a multiparamétrica.
+							<br><br>
+							<h1>Tratamento medicamentoso</h1>
+							Os objetivos do tratamento com medicações é a melhora dos sintomas, da qualidade de vida, da progressão e evitar complicações. A indicação da medicação depende da gravidade dos sintomas, do tamanho da próstata, da presença de fatores de risco ou não.
+							Os dois tipos mais comuns de medicações são os alfa-bloqueadores (doxazosina e tansulosina) e inibidores da 5-alfa redutase (finasterida e dutasterida). Muitos pacientes se beneficiam com a medicação, mas os que apresentam sintomas mais intensos, complicações, piora e progressão dos sintomas ou que não toleram as medicações por efeitos adversos (disfunções sexuais por exemplo) necessitam de cirurgia.
+						
+						</p>
+
+						
 					</div>
 					<div></div>
 				</div>

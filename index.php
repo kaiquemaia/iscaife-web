@@ -104,7 +104,7 @@
 						<div class="col-xs-12 col-sm-10 col-sm-push-1 col-lg-8 col-lg-push-2 text-center">
 							<h2 class="heading text-uppercase"><span class="main-color">CIRURGIAS</span></h2>
 							<span class="divider center"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+							
 						</div>
 					</header>
 					<div class="row">
@@ -113,7 +113,7 @@
 							<span class="num main-color">01.</span>
 							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
 							<span class="divider"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust...</p>
+							<p>Existem diversas opções cirúrgicas para o tratamento da HPB, podendo sem endoscópico, aberta, laparoscópica ou até robótica. </p>
 							<a href="#" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
 						<!-- about box end here -->
@@ -122,7 +122,7 @@
 							<span class="num main-color">02.</span>
 							<span class="title text-uppercase">O laser em próstata: A enucleação da próstata com holmium laser – HoLEP</span>
 							<span class="divider"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust...</p>
+							<p>O procedimento é realizado pela via trans-uretral onde se utiliza um aparelho que permite a passagem da fibra laser por um de seus canais.</p>
 							<a href="#" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
 						<!-- about box end here -->
@@ -136,23 +136,39 @@
 			<div class="counter-section text-center bg-img-full pad-top-lg pad-bottom-lg" style="background-image: url(images/img04.jpg);" data-scroll-index="2">
 				<div class="container pad-top-xs">
 					<div class="row">
-						<div class="co-xs-12 col-sm-3 pad-bottom-xs">
-							<span class="counter main-color">246</span>
-							<span class="txt text-uppercase">clients</span>
+						<div class="co-xs-12 col-sm-6 pad-bottom-xs">
+							<span class="image"><img src="assets/images/dr.jpg" alt="" width="360px"></span>
+							
 						</div>
-						<div class="co-xs-12 col-sm-3 pad-bottom-xs">
-							<span class="counter main-color">390</span>
-							<span class="txt text-uppercase">coffee</span>
-						</div>
-						<div class="co-xs-12 col-sm-3 pad-bottom-xs">
-							<span class="counter main-color">56</span>
-							<span class="txt text-uppercase">Awards</span>
-						</div>
-						<div class="co-xs-12 col-sm-3 pad-bottom-xs">
-							<span class="counter main-color">470</span>
-							<span class="txt text-uppercase">Brand</span>
+						<div class="co-xs-12 col-sm-6 pad-bottom-xs" style="text-align: left;">
+							<h1 class="main-color"><b>Dr. Alexandre Iscaife</b></h1>
+							<p class="o-doutor">Doutor em urologia pela Faculdade de Medicina da USP (FMUSP) e médico assistente da Clínica Urológica do Hospital das Clinicas da USP, especialista em cirurgias minimamente invasivas (HoLEP, Laparoscopia e Robótica).
+								Fellowship em cirurgia robótica e HoLEP na Ospedalle San Raffaele em Milão – Itália.</p>
+
+								<div class="co-xs-12 col-sm-4 inline pad-top-lg">
+									<i class="fa fa-graduation-cap " aria-hidden="true" style="font-size: 90px; text-align: left;">
+								    <center><h4>Certificate</h4></center>
+								</i>
+								</div>
+
+								<div class="co-xs-12 col-sm-4 inline pad-top-lg">
+									<i class="fa fa-graduation-cap" aria-hidden="true" style="font-size: 90px; text-align: left;">
+									<center><h4>Certificate</h4></center>
+								</i>
+								</div>
+
+								<div class="co-xs-12 col-sm-4 inline pad-top-lg">
+									<i class="fa fa-graduation-cap" aria-hidden="true" style="font-size: 90px; text-align: left;">
+									<center><h4>Certificate</h4></center>
+								</i>
+									
+								</div>
+							
 						</div>
 					</div>
+				</div>
+			
+					
 				</div>
 			</div>
 			<!-- counter section end here -->
@@ -176,7 +192,7 @@
 							<ul class="services-box list-unstyled text-center" >
 								<li>
 									<div class="over">
-									<i class="fa fa-user-md"></i>
+									<i class="fa fa-user-md" style="font-size: 60px; color: #000;"></i>
 										<span class="title text-uppercase "><a href="hiperplasia.php">hiperplasia da próstata</a></span>
 										<!-- <span class="divider white center"></span> -->
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
@@ -184,7 +200,7 @@
 								</li>
 								<li>
 									<div class="over">
-									<i class="fa fa-user-md"></i>
+									<i class="fa fa-user-md" style="font-size: 60px; color: #000;"></i>
 										<span class="title text-uppercase"><a href="#">O laser em próstata</a></span>
 										<!-- <span class="divider white center"></span> -->
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
@@ -224,7 +240,7 @@
 								<div class="box">
 									
 									<span class="divider"></span>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust...</p>
+									<p>A partir dos quarenta anos inicia-se um processo de crescimento da zona de transição da próstata, na região peri-uretral, que acometerá 80% dos homens. Esse crescimento não causa necessariamente sintomas de obstrução em todos os homens, mas sim em 30-60% de todos acimas dos 65 anos.</p>
 									<a href="hiperplasia.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
 								</div>
@@ -246,7 +262,7 @@
 								<div class="box">
 									
 									<span class="divider"></span>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust...</p>
+									<p>O câncer de próstata (CaP) é a neoplasia mais frequente no homem, excetuando-se os tumores de pele. O principal fator de risco é a idade, sendo 65 anos a idade média ao diagnostico. Antes dos 40 anos sua ocorrência é extremamente rara. </p>
 									<a href="cancer-de-prostata.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
 								</div>
@@ -266,7 +282,7 @@
 								<div class="box">
 									
 									<span class="divider"></span>
-									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust...</p>
+									<p>O carcinoma de células renais (CCR) é também conhecido como câncer de células renais. Cerca de 9 em cada 10 cânceres renais são carcinomas de células renais. Embora o CCR geralmente cresça como um único tumor dentro de um rim, às vezes há dois ou mais tumores em um rim ou até mesmo tumores em ambos os rins ao mesmo tempo.</p>
 									<a href="cancer-de-rim.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
 								</div>

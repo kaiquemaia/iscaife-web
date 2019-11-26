@@ -50,6 +50,7 @@ Theme URI:
 img {
 	max-width: 100%;
 	height: auto;
+	border-radius: 15px;
 }
 
 .comment-form input[type="text"],
@@ -1854,3 +1855,15 @@ body.boxed-v #wrapper {
 	width: 100%;
 }
 
+h1 {
+	text-align: left;
+}
+
+.o-doutor {
+	text-align: left;
+}
+
+p {
+	text-align: justify!important;
+	text-justify: inter-word!important;
+}
