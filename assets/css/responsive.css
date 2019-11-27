@@ -94,11 +94,13 @@
 		left: 0;
 		right: 0;
 		position: fixed;
+		background-color: #fff;
 	}
 
 	#header.sticky #nav {
 		top: 100%;
 		position: absolute;
+		background-color: #fff;
 	}
 
 	#nav {
@@ -213,4 +215,7 @@
 		width: 100%;
 	}
 }
-
+
+.light-bg sticky {
+	background-color: #fff;
+}

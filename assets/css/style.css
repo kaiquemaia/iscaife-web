@@ -1866,4 +1866,16 @@ h1 {
 p {
 	text-align: justify!important;
 	text-justify: inter-word!important;
+	padding: 10px;
+}
+
+
+.bandeiras {
+	filter: grayscale(1);
+	position: relative;
+	padding: 0 5px 0 7%!important;
+}
+
+.bandeiras:hover{
+	filter: grayscale(0);
 }
