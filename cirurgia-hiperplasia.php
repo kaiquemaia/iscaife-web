@@ -54,7 +54,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(http://placehold.it/1920x1080);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/bg/cirurgia-hiperplasia.jpg);" data-scroll-index="0">
 				<!-- <span class="overlay"></span> -->
 				<div class="container">
 					<div class="row">
@@ -70,20 +70,19 @@
 					<!-- main heading start here -->
 					<header class="main-heading row">
 						<div class="col-xs-12 col-sm-10 col-sm-push-1 col-lg-8 col-lg-push-2 text-center">
-							<h2 class="heading text-uppercase"><span class="main-color">CIRURGIAS</span></h2>
-							<span class="divider center"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-						</div>
+							</div>
 					</header>
 					<div class="row">
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<!-- <span class="num main-color">01.</span> -->
 							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
+							<h4>O tratamento definitivo</h4>
 							<span class="divider"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been indust... <br>
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi dolores aut tenetur laudantium atque optio corrupti doloribus corporis ullam delectus commodi deleniti consequuntur enim eveniet, et veritatis. Facilis, exercitationem iure.<br>
-							Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non minima magnam voluptatem error et deleniti est sapiente esse accusantium. Odio voluptas possimus eaque nostrum ipsam rem amet perferendis, at excepturi!</p>
+							<p>Existem diversas opções cirúrgicas para o tratamento da HPB, podendo sem endoscópico, aberta, laparoscópica ou até robótica. 
+							<br><br>
+							A abordagem mais utilizada é a RTU (ressecção transuretral da próstata), mas é reservado para próstatas de tamanho médio e pequeno, o paciente permanece no hospital por 3-4 dias para irrigação vesical e nem sempre é uma cirurgia completa. As cirurgias abertas como a PTV (prostatectomia transvesical) e o Millin foram por muito tempo o padrão para próstatas grandes, mas atualmente tanto as próstatas medias como as grandes podem ser operadas com vantagens utilizando-se o laser.
+							</p>
 							
 						</div>
 						<!-- about box end here -->
@@ -93,7 +92,16 @@
 							<img src="https://hilab.com.br/wp-content/uploads/2019/04/faca-exame-doutor.png" alt="">
 						</div>
 						<!-- about box end here -->
-						<p class="col-xs-12 col-sm-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum itaque aliquid aliquam omnis ducimus amet voluptas officia necessitatibus ipsam veniam laboriosam iusto, animi similique laborum deserunt veritatis obcaecati, exercitationem minima?</p>
+						<p>
+						O uso do laser na cirurgia da próstata visa alcançar os maiores índices de sucesso com o mínimo impacto e nesse quesito o laser holmium por meio da enucleaçao da próstata (HoLEP) surge como o novo padrão no tratamento de qualquer próstata, independente do tamanho. Toda a cirurgia é realizada por via endoscópica, sem nenhum corte, o tempo de sonda e permanência no hospital é de um dia (24hs) em média, o sangramento é mínimo e por essa técnica todo o adenoma é retirado reduzindo praticamente a zero a chance de novo crescimento. Próstatas extremamente grandes, como 300g, podem ser tratadas por esse método. O retorno as atividades diárias é precoce desde que respeitadas as orientações do cirurgião
+						<br><br>
+						Um dos grandes limitantes para essa cirurgia (HoLEP) é a curva de aprendizado do cirurgião (número de cirurgias necessárias para adquirir proficiência), que deve realizar muitos procedimentos sob supervisão de um proctor (instrutor) para estar apto a realizar essa cirurgia (30 cirurgias em média). O Dr. Alexandre Iscaife tem larga experiência no Brasil e na Itália, com alto volume cirúrgico de HoLEP sendo um dos proctors autorizados pela Holmium Academy para realizar e ensinar o HoLEP para outros urologistas interessados em desenvolver o método no Brasil. 
+						<br><br>
+						<h1>O que esperar após o HoLEP</h1>
+						Após a retirada da sonda que ocorre geralmente no dia seguinte a cirurgia o fluxo ainda ficará um pouco alterado por cerca de 3 dias (adaptação da bexiga), após isso ele se manterá forte e contínuo. Pequenos coágulos e urina avermelhada são comuns nos primeiros dias, mas após 1 semana já se torna praticamente normal. Algum grau de ardência ao urinar pode existir por alguns dias e com medicações anti-inflamatórias (profenid, voltaren) e analgésicas (dipirona, paracetamol) os sintomas melhoram e cessam. Existem pacientes com bexiga hiperativa e outros com próstatas muito inflamadas e fibrosas em que a ardência pode persistir por tempo maior, mas é extremamente raro.
+						<br><br>
+						Após a alta o paciente pode realizar suas atividades normais, evitando apenas atividade física e relação sexual. Com 15 dias de pós-operatório as atividades físicas são recomendadas e também será liberada a atividade sexual. 
+						</p>
 					</div>
 					<div></div>
 				</div>

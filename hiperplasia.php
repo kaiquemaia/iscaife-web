@@ -54,7 +54,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(http://placehold.it/1920x1080);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/bg/Hiperplasia.jpg);" data-scroll-index="0">
 				<!-- <span class="overlay"></span> -->
 				<div class="container">
 					<div class="row">

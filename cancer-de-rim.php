@@ -54,7 +54,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(http://placehold.it/1920x1080);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/bg/cancer-rim.jpg);" data-scroll-index="0">
 				<!-- <span class="overlay"></span> -->
 				<div class="container">
 					<div class="row">
@@ -75,11 +75,14 @@
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<!-- <span class="num main-color">01.</span> -->
-							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
+							<span class="title text-uppercase">Câncer de Rim</span>
 							<span class="divider"></span>
-							<h1>Definição e causas</h1>
-							<p>A partir dos quarenta anos inicia-se um processo de crescimento da zona de transição da próstata, na região peri-uretral, que acometerá 80% dos homens. Esse crescimento não causa necessariamente sintomas de obstrução em todos os homens, mas sim em 30-60% de todos acimas dos 65 anos. Esse processo é benigno e não tem relação com o câncer, mas causa obstrução em graus diversos variando de sintomas leves até a retenção urinaria. São conhecidos alguns fatores de risco como obesidade, síndrome metabólica, sedentarismo e herança genética, entretanto a grande maioria não apresenta nenhum fator de risco evidente. A atividade física regular e uma dieta saudável são fortemente recomendadas em pacientes com hiperplasia da próstata.
 							
+							<p>O carcinoma de células renais (CCR) é também conhecido como câncer de células renais. Cerca de 9 em cada 10 cânceres renais são carcinomas de células renais. Embora o CCR geralmente cresça como um único tumor dentro de um rim, às vezes há dois ou mais tumores em um rim ou até mesmo tumores em ambos os rins ao mesmo tempo. <br>
+
+							Podem existir também tumores renais benignos (não cancerígenos). Isso significa que eles não metastatizam (disseminam) para outras partes do corpo, embora possam crescer e causar problemas. <br>
+
+							Como exemplos de tumores benignos temos o adenoma renal, o oncocitoma, e o angiomiolipoma para citar os mais comuns. Os cistos renais são uma condição benigna mas devem ser avaliados por tomografia computadorizada com contraste e classificados segundo Bosniak para aferir o risco de desenvolvimento de câncer renal e indicar o tratamento. Essa classificação vai de I-IV, sendo que a chance de câncer no tipo I e II é 0%, no IIF é de 5%, no III é de 55 % e no IV de praticamente 100%.</p>
 						</div>
 						<!-- about box end here -->
 						<!-- about box start here -->
@@ -88,39 +91,28 @@
 							<img src="https://hilab.com.br/wp-content/uploads/2019/04/faca-exame-doutor.png" alt="">
 						</div>
 						<!-- about box end here -->
-						<h1>Os sintomas críticos do aumento prostático</h1>
-						<p>
-							Um dos sintomas mais comuns é a redução do jato urinário. Além disso há aumento da frequência urinaria, principalmente a noite, o que prejudica muito a qualidade do sono. Outros sintomas incluem um desejo urgente de urinar, com eventuais perdas antes de chegar ao banheiro, dificuldade de iniciar a micção e sensação de esvaziamento incompleto da bexiga.
-							<br><br>
-							O quadro mais dramático é o da retenção urinaria, onde não é possível urinar necessitando de intervenção médica com passagem de sonda vesical ou até mesmo de cistostomia (colocação de uma sonda na bexiga pelo abdome via punção ou cirurgia). 
-							Quanto a evolução da hiperplasia, esta é progressiva, embora não exista uma clara relação entre tamanho da próstata e sintomas. Alguns pacientes apresentam próstatas pequenas e são bastante sintomáticos e pacientes com próstata extremamente grandes sem sintomas. 
-							<br><br>
-							Com o progresso da doença a bexiga passa a sofrer um processo de substituição da musculatura normal por tecido colágeno o que prejudica a função normal de esvaziamento da bexiga. Caso esse processo não seja interrompido pelo tratamento desobstrutivo da próstata a bexiga apresentara uma falência completa necessitando de cateterismo vesical definitivo.
-						
-							<h1>O diagnóstico e exames para avaliação da Hiperplasia Prostática Benigna</h1>
-							O diagnostico se inicia com a consulta clinica e o exame de toque retal da próstata que visa avaliar o tamanho e consistência além de avaliar outras doenças como o câncer de próstata. Além do exame físico utilizamos os seguintes exames auxiliares:
-								<br><br>
-							<b>PSA (Antígeno Prostático Específico)</b> – É uma glicoproteína produzida pela próstata que participa de processos envolvidos na ativação dos espermatozoides no liquido seminal. Pode ser dosada em varias formas, mas as mais utilizadas são sua forma total e a fração livre. Nos pacientes com HPB o PSA está frequentemente aumentado devido ao aumento da produção pela zona de transição aumentada, não indicando necessariamente a necessidade de biopsia, sendo cada caso avaliado com o urologista utilizando-se a relação PSA livre/total, a densidade do PSA em relação ao volume da zona de transição e mais recentemente utilizando-se da ressonância magnética multiparamétrica da próstata.
-							<br><br>
-							<b>Ultrassom da próstata</b> – Pode ser realizada por via abdominal e retal e por essa ultima via podemos avaliar a bexiga, presença de cálculos, tumores vesicais, o tamanho da próstata, sua forma e o resíduo na bexiga após a micção.
-							<br><br>
-							<b>Ultrassom Trans-retal da Prostata (USTR)</b> – Utilizamos na suspeita de câncer de próstata para realização de biópsia.
-							<br><br>
-							<b>Urofluxometria livre</b> – Exame simples e não invasivo de suma importância pelo qual podemos saber a velocidade do fluxo e a forma da curva produzida em um gráfico de volume pelo tempo de micção. 
-							<br><br>
-							<b>Estudo urodinâmico</b> – Exame invasivo pelo qual são avaliados parâmetros de pressão e fluxo urinário durante enchimento e esvaziamento da bexiga em uma situação que tenta reproduzir a micção em um ambiente controlado. Não é fundamental na avaliação da HPB mas pode ser solicitado em situações especificas. 
-							<br><br>
-							<b>Exame de urina</b> – É útil na identificação de infecções associadas a HPB e também para avaliar presença de sangue que pode indicar um sangramento prostático ou de algum tumor de bexiga ou do trato urinário superior.
-							<br><br>
-							<b>Ressonância Magnética da Próstata</b> – Utilizamos em casos de suspeita de câncer de próstata antes ou depois de uma biópsia, nesses casos a ressonância que realizamos é a multiparamétrica.
-							<br><br>
-							<h1>Tratamento medicamentoso</h1>
-							Os objetivos do tratamento com medicações é a melhora dos sintomas, da qualidade de vida, da progressão e evitar complicações. A indicação da medicação depende da gravidade dos sintomas, do tamanho da próstata, da presença de fatores de risco ou não.
-							Os dois tipos mais comuns de medicações são os alfa-bloqueadores (doxazosina e tansulosina) e inibidores da 5-alfa redutase (finasterida e dutasterida). Muitos pacientes se beneficiam com a medicação, mas os que apresentam sintomas mais intensos, complicações, piora e progressão dos sintomas ou que não toleram as medicações por efeitos adversos (disfunções sexuais por exemplo) necessitam de cirurgia.
-						
-						</p>
+						<p>O câncer renal está entre os 10 tipos de câncer mais comuns em homens e mulheres A maioria das pessoas com câncer renal é mais velha sendo a idade média ao diagnostico de 64 anos. O câncer de rim é muito incomum em pessoas com menos de 45 anos.
+						<br><br>
+						Em geral, o risco de desenvolver câncer renal nos homens é de cerca de 1 em 48. O risco de vida para as mulheres é de 1 em 83. Por razões que não são totalmente claras, a taxa de novos cânceres renais vem aumentando desde a década de 1990, embora isso pareça ter se estabilizado nos últimos anos. Parte deste aumento foi provavelmente devido ao uso de exames de imagem mais frequentemente, como tomografia computadorizada, que encontra alguns tipos de câncer que nunca poderiam ter sido encontrados de outra forma. As taxas de mortalidade por esses cânceres diminuíram ligeiramente desde meados dos anos 90. Para pacientes com câncer renal localizado (câncer que não se espalhou para os gânglios linfáticos ou órgãos distantes), as taxas de sobrevida em 5 anos são de 97% para o grupo de baixo risco, 81% para o grupo de risco intermediário e 62% para o alto risco.</p>
 
+						<p>
+						<h1>Fatores de Risco para o Câncer Renal</h1>
+
+						Tabagismo, Obesidade, Exposições no local de trabalho ao cádmio (um tipo de metal), alguns herbicidas e solventes orgânicos, particularmente o tricloroetileno, história familiar de câncer renal, pressão alta, Medicamentos (Fenacetina, Diuréticos), doença renal avançada, Raça - Afro-americanos e índios americanos / nativos do Alasca têm taxas ligeiramente mais altas de CCR do que os brancos, fatores de risco genéticos e hereditários. 
 						
+						<h1>Sintomas</h1>
+
+						No inicio o tumor é silencioso e quando começa a dar sintomas já se encontra em condição avançada. Os sintomas mais comuns são sangramento na urina, emagrecimento, fadiga, anemia, perda de apetite, dor lombar e massa abdominal palpável. O diagnostico pode ser feito por ultrassonografia, tomografia computadorizada com contraste e ressonância nuclear magnética. Para melhor avaliação e planejamento terapêutico recomenda-se tomografia com contraste ou ressonância magnética. 
+						<br>
+						<h1>Tratamento</h1>
+						O tratamento é feito com cirurgia, terapias ablativas e radioterapia (quando possível) e terapia alvo molecular. Com relação a cirurgia, é o tratamento com as maiores chances de cura considerando casos passíveis de retirada completa do tumor. A cirurgia pode remover o rim por completo (nefrectomia radical) ou apenas o tumor (nefrectomia parcial) quando isso é possível. Na maioria dos casos pode ser feita por técnicas minimamente invasivas como laparoscopia e robótica, com menor sangramento, menos dor, menor tempo de internação e menores incisões.
+						<br>
+						Uma das técnicas mais utilizadas para as nefrectomias radicais ou parciais é a laparoscopia, podendo se utilizar a tecnologia 3D ou até mesmo sistemas de vídeo 4K como no procedimento realizado abaixo pelo Dr. Alexandre Iscaife na Ospedalle San Raffaele em Milão na Itália.</p>
+
+						<div class="inline">
+							<div class="col-xs-12 col-sm-6 col-md-6 pad-bottom-sm pad-top-sm"><img src="assets/images/c-rim.jpg" alt=""></div>
+							<div class="col-xs-12 col-sm-6 col-md-6 pad-bottom-sm pad-top-sm"><img src="assets/images/c-rim2.jpg" alt=""></div>
+						</div>
 					</div>
 					<div></div>
 				</div>

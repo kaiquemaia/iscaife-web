@@ -54,7 +54,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(http://placehold.it/1920x1080);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/bg/cirurgia-laser.jpg);" data-scroll-index="0">
 				<!-- <span class="overlay"></span> -->
 				<div class="container">
 					<div class="row">
@@ -75,51 +75,39 @@
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<!-- <span class="num main-color">01.</span> -->
-							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
+							<span class="title text-uppercase">O laser em próstata:</span>
+							<h4>A enucleação da próstata com holmium laser – HoLEP</h4>
 							<span class="divider"></span>
-							<h1>Definição e causas</h1>
-							<p>A partir dos quarenta anos inicia-se um processo de crescimento da zona de transição da próstata, na região peri-uretral, que acometerá 80% dos homens. Esse crescimento não causa necessariamente sintomas de obstrução em todos os homens, mas sim em 30-60% de todos acimas dos 65 anos. Esse processo é benigno e não tem relação com o câncer, mas causa obstrução em graus diversos variando de sintomas leves até a retenção urinaria. São conhecidos alguns fatores de risco como obesidade, síndrome metabólica, sedentarismo e herança genética, entretanto a grande maioria não apresenta nenhum fator de risco evidente. A atividade física regular e uma dieta saudável são fortemente recomendadas em pacientes com hiperplasia da próstata.
+							
+							<p>
+							O procedimento é realizado pela via trans-uretral onde se utiliza um aparelho que permite a passagem da fibra laser por um de seus canais. Nesse procedimento é possível a retirada completa do adenoma prostático, sem deixar nenhum resíduo que possa crescer no futuro e trazer de volta os mesmos problemas. A retirada do adenoma acontece no sentido da bexiga e ao final da primeira parte da cirurgia todo o adenoma é colocado dentro dela. Na segunda parte, utilizamos um morcelador que permite a fragmentação e aspiração do adenoma para posterior analise patológica.
+							<br><br>
+							Ao termino do procedimento é colocado um cateter vesical para lavagem por apenas 24hs, sendo retirado após esse período quando então o paciente pode receber alta hospitalar após urinar espontaneamente. Vale frisar que a grande maioria dos pacientes permanece no hospital por apenas 24hs, entretanto alguns podem permanecer mais e outros ate menos tempo. 
+							</p>
 							
 						</div>
 						<!-- about box end here -->
 						<!-- about box start here -->
-						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
+						<div class="col-xs-12col-md-6 about-box pad-bottom-sm">
 							<!-- <span class="num main-color">02.</span> -->
 							<img src="https://hilab.com.br/wp-content/uploads/2019/04/faca-exame-doutor.png" alt="">
 						</div>
 						<!-- about box end here -->
-						<h1>Os sintomas críticos do aumento prostático</h1>
 						<p>
-							Um dos sintomas mais comuns é a redução do jato urinário. Além disso há aumento da frequência urinaria, principalmente a noite, o que prejudica muito a qualidade do sono. Outros sintomas incluem um desejo urgente de urinar, com eventuais perdas antes de chegar ao banheiro, dificuldade de iniciar a micção e sensação de esvaziamento incompleto da bexiga.
-							<br><br>
-							O quadro mais dramático é o da retenção urinaria, onde não é possível urinar necessitando de intervenção médica com passagem de sonda vesical ou até mesmo de cistostomia (colocação de uma sonda na bexiga pelo abdome via punção ou cirurgia). 
-							Quanto a evolução da hiperplasia, esta é progressiva, embora não exista uma clara relação entre tamanho da próstata e sintomas. Alguns pacientes apresentam próstatas pequenas e são bastante sintomáticos e pacientes com próstata extremamente grandes sem sintomas. 
-							<br><br>
-							Com o progresso da doença a bexiga passa a sofrer um processo de substituição da musculatura normal por tecido colágeno o que prejudica a função normal de esvaziamento da bexiga. Caso esse processo não seja interrompido pelo tratamento desobstrutivo da próstata a bexiga apresentara uma falência completa necessitando de cateterismo vesical definitivo.
-						
-							<h1>O diagnóstico e exames para avaliação da Hiperplasia Prostática Benigna</h1>
-							O diagnostico se inicia com a consulta clinica e o exame de toque retal da próstata que visa avaliar o tamanho e consistência além de avaliar outras doenças como o câncer de próstata. Além do exame físico utilizamos os seguintes exames auxiliares:
-								<br><br>
-							<b>PSA (Antígeno Prostático Específico)</b> – É uma glicoproteína produzida pela próstata que participa de processos envolvidos na ativação dos espermatozoides no liquido seminal. Pode ser dosada em varias formas, mas as mais utilizadas são sua forma total e a fração livre. Nos pacientes com HPB o PSA está frequentemente aumentado devido ao aumento da produção pela zona de transição aumentada, não indicando necessariamente a necessidade de biopsia, sendo cada caso avaliado com o urologista utilizando-se a relação PSA livre/total, a densidade do PSA em relação ao volume da zona de transição e mais recentemente utilizando-se da ressonância magnética multiparamétrica da próstata.
-							<br><br>
-							<b>Ultrassom da próstata</b> – Pode ser realizada por via abdominal e retal e por essa ultima via podemos avaliar a bexiga, presença de cálculos, tumores vesicais, o tamanho da próstata, sua forma e o resíduo na bexiga após a micção.
-							<br><br>
-							<b>Ultrassom Trans-retal da Prostata (USTR)</b> – Utilizamos na suspeita de câncer de próstata para realização de biópsia.
-							<br><br>
-							<b>Urofluxometria livre</b> – Exame simples e não invasivo de suma importância pelo qual podemos saber a velocidade do fluxo e a forma da curva produzida em um gráfico de volume pelo tempo de micção. 
-							<br><br>
-							<b>Estudo urodinâmico</b> – Exame invasivo pelo qual são avaliados parâmetros de pressão e fluxo urinário durante enchimento e esvaziamento da bexiga em uma situação que tenta reproduzir a micção em um ambiente controlado. Não é fundamental na avaliação da HPB mas pode ser solicitado em situações especificas. 
-							<br><br>
-							<b>Exame de urina</b> – É útil na identificação de infecções associadas a HPB e também para avaliar presença de sangue que pode indicar um sangramento prostático ou de algum tumor de bexiga ou do trato urinário superior.
-							<br><br>
-							<b>Ressonância Magnética da Próstata</b> – Utilizamos em casos de suspeita de câncer de próstata antes ou depois de uma biópsia, nesses casos a ressonância que realizamos é a multiparamétrica.
-							<br><br>
-							<h1>Tratamento medicamentoso</h1>
-							Os objetivos do tratamento com medicações é a melhora dos sintomas, da qualidade de vida, da progressão e evitar complicações. A indicação da medicação depende da gravidade dos sintomas, do tamanho da próstata, da presença de fatores de risco ou não.
-							Os dois tipos mais comuns de medicações são os alfa-bloqueadores (doxazosina e tansulosina) e inibidores da 5-alfa redutase (finasterida e dutasterida). Muitos pacientes se beneficiam com a medicação, mas os que apresentam sintomas mais intensos, complicações, piora e progressão dos sintomas ou que não toleram as medicações por efeitos adversos (disfunções sexuais por exemplo) necessitam de cirurgia.
-						
-						</p>
+						<h1>Analise patológica</h1>
 
+						Na primeira consulta de retorno pós cirurgico o resultado do exame patológico já estará pronto. Em 95% o diagnostico é hiperplasia benigna da próstata. Em 5% ocorre o que chamamos de tumor de próstata incidental, que geralmente é de baixo grau sendo apenas acompanhado com exames periódicos
+						<br><br>
+
+						<h1>Alguns aspectos importantes após a cirurgia</h1>
+
+						Presença de sangue na urina – Pode ocorrer por um período variável, geralmente cessa na primeira semana, alguns pequenos coágulos podem sair por um período maior sem causar nenhum problema. O paciente deve apenas aumentar a ingestão de líquidos.
+						Sintomas urinários irritativos – Nos primeiros dias após a cirurgia pode ocorrer ardência e urgência ao urinar, é comum e leve, utilizamos medicamentos analgésicos e cessa espontaneamente.  
+
+						<h1>Função sexual </h1>– A maioria dos pacientes relata uma melhora na função sexual e isso pode estar relacionado com a melhora dos sintomas urinários e da qualidade de vida, além da suspenção dos medicamentos para próstata. Com relação a ejaculação, ocorre a chamada ejaculação retrograda em cerca de 70-80% dos pacientes, como em toda cirurgia com retirada de todo o adenoma (RTU, PTV, Millin e etc). Nessa situação o sêmen ejaculado vai para a bexiga e é eliminado na primeira urina após a relação, importante frisar que a ereção, prazer e orgasmo são normais sem nenhuma alteração. A ejaculação retrograda é variável de paciente para paciente, sendo que muitos continuam ejaculando uma pequena quantidade podendo engravidar a parceira. Portanto, esse não é considerado um procedimento que causa infertilidade em todos os casos. 
+						<br><br>
+						Maiores informações podem ser obtidas enviando um email para <b>iscaifeboni@yahoo.com.br</b> ou agendando uma consulta.
+						</p>
 						
 					</div>
 					<div></div>

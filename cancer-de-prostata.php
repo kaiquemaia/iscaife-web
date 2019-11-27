@@ -54,7 +54,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/cancer-prostata,jpg);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/bg/cancer-prostata.jpg);">
 				<!-- <span class="overlay"></span> -->
 				<div class="container">
 					<div class="row">
@@ -80,9 +80,7 @@
 							<h1>Breve epidemiologia</h1>
 							<p>O câncer de próstata (CaP) é a neoplasia mais frequente no homem, excetuando-se os tumores de pele. O principal fator de risco é a idade, sendo 65 anos a idade média ao diagnostico. Antes dos 40 anos sua ocorrência é extremamente rara. Outros fatores de risco são a raça (afrodescendentes têm maior chance de ter CaP e maior risco de tumores de tipo mais grave), o estilo de vida sedentário e a obesidade e antecedentes familiares de CaP (em parente de primeiro grau).</p>
 
-							<h1>Diagnóstico</h1>
-							<p>A grande maioria dos pacientes não apresenta sintomas ao diagnostico. Portanto, recomenda-se uma dosagem de PSA aos 40 anos. O valor de normalidade esperado para esta idade deve estar próximo de 1ng/ml. Após os 50 anos o PSA maior que 2,5ng/ml merece atenção e deve ser associado ao toque retal da próstata alterado para que se considere a necessidade de maiores investigações. As alterações no PSA e no toque devem desencadear uma sequência de exames variáveis, dependendo das características de cada indivíduo, para que se possa diferenciar doenças benignas como a hiperplasia benigna da próstata (HPB) e a prostatite do câncer de próstata. Abaixo discutiremos cada um dos métodos complementares. </p>
-						</div>
+							</div>
 						<!-- about box end here -->
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
@@ -90,37 +88,51 @@
 							<img src="https://hilab.com.br/wp-content/uploads/2019/04/faca-exame-doutor.png" alt="">
 						</div>
 						<!-- about box end here -->
-						<h1>Os sintomas críticos do aumento prostático</h1>
-						<p>
-							Um dos sintomas mais comuns é a redução do jato urinário. Além disso há aumento da frequência urinaria, principalmente a noite, o que prejudica muito a qualidade do sono. Outros sintomas incluem um desejo urgente de urinar, com eventuais perdas antes de chegar ao banheiro, dificuldade de iniciar a micção e sensação de esvaziamento incompleto da bexiga.
-							<br><br>
-							O quadro mais dramático é o da retenção urinaria, onde não é possível urinar necessitando de intervenção médica com passagem de sonda vesical ou até mesmo de cistostomia (colocação de uma sonda na bexiga pelo abdome via punção ou cirurgia). 
-							Quanto a evolução da hiperplasia, esta é progressiva, embora não exista uma clara relação entre tamanho da próstata e sintomas. Alguns pacientes apresentam próstatas pequenas e são bastante sintomáticos e pacientes com próstata extremamente grandes sem sintomas. 
-							<br><br>
-							Com o progresso da doença a bexiga passa a sofrer um processo de substituição da musculatura normal por tecido colágeno o que prejudica a função normal de esvaziamento da bexiga. Caso esse processo não seja interrompido pelo tratamento desobstrutivo da próstata a bexiga apresentara uma falência completa necessitando de cateterismo vesical definitivo.
+						<h1>Diagnóstico</h1>
+							<p>A grande maioria dos pacientes não apresenta sintomas ao diagnostico. Portanto, recomenda-se uma dosagem de PSA aos 40 anos. O valor de normalidade esperado para esta idade deve estar próximo de 1ng/ml. Após os 50 anos o PSA maior que 2,5ng/ml merece atenção e deve ser associado ao toque retal da próstata alterado para que se considere a necessidade de maiores investigações. As alterações no PSA e no toque devem desencadear uma sequência de exames variáveis, dependendo das características de cada indivíduo, para que se possa diferenciar doenças benignas como a hiperplasia benigna da próstata (HPB) e a prostatite do câncer de próstata. Abaixo discutiremos cada um dos métodos complementares. </p>
 						
-							<h1>O diagnóstico e exames para avaliação da Hiperplasia Prostática Benigna</h1>
-							O diagnostico se inicia com a consulta clinica e o exame de toque retal da próstata que visa avaliar o tamanho e consistência além de avaliar outras doenças como o câncer de próstata. Além do exame físico utilizamos os seguintes exames auxiliares:
-								<br><br>
-							<b>PSA (Antígeno Prostático Específico)</b> – É uma glicoproteína produzida pela próstata que participa de processos envolvidos na ativação dos espermatozoides no liquido seminal. Pode ser dosada em varias formas, mas as mais utilizadas são sua forma total e a fração livre. Nos pacientes com HPB o PSA está frequentemente aumentado devido ao aumento da produção pela zona de transição aumentada, não indicando necessariamente a necessidade de biopsia, sendo cada caso avaliado com o urologista utilizando-se a relação PSA livre/total, a densidade do PSA em relação ao volume da zona de transição e mais recentemente utilizando-se da ressonância magnética multiparamétrica da próstata.
-							<br><br>
-							<b>Ultrassom da próstata</b> – Pode ser realizada por via abdominal e retal e por essa ultima via podemos avaliar a bexiga, presença de cálculos, tumores vesicais, o tamanho da próstata, sua forma e o resíduo na bexiga após a micção.
-							<br><br>
-							<b>Ultrassom Trans-retal da Prostata (USTR)</b> – Utilizamos na suspeita de câncer de próstata para realização de biópsia.
-							<br><br>
-							<b>Urofluxometria livre</b> – Exame simples e não invasivo de suma importância pelo qual podemos saber a velocidade do fluxo e a forma da curva produzida em um gráfico de volume pelo tempo de micção. 
-							<br><br>
-							<b>Estudo urodinâmico</b> – Exame invasivo pelo qual são avaliados parâmetros de pressão e fluxo urinário durante enchimento e esvaziamento da bexiga em uma situação que tenta reproduzir a micção em um ambiente controlado. Não é fundamental na avaliação da HPB mas pode ser solicitado em situações especificas. 
-							<br><br>
-							<b>Exame de urina</b> – É útil na identificação de infecções associadas a HPB e também para avaliar presença de sangue que pode indicar um sangramento prostático ou de algum tumor de bexiga ou do trato urinário superior.
-							<br><br>
-							<b>Ressonância Magnética da Próstata</b> – Utilizamos em casos de suspeita de câncer de próstata antes ou depois de uma biópsia, nesses casos a ressonância que realizamos é a multiparamétrica.
-							<br><br>
-							<h1>Tratamento medicamentoso</h1>
-							Os objetivos do tratamento com medicações é a melhora dos sintomas, da qualidade de vida, da progressão e evitar complicações. A indicação da medicação depende da gravidade dos sintomas, do tamanho da próstata, da presença de fatores de risco ou não.
-							Os dois tipos mais comuns de medicações são os alfa-bloqueadores (doxazosina e tansulosina) e inibidores da 5-alfa redutase (finasterida e dutasterida). Muitos pacientes se beneficiam com a medicação, mas os que apresentam sintomas mais intensos, complicações, piora e progressão dos sintomas ou que não toleram as medicações por efeitos adversos (disfunções sexuais por exemplo) necessitam de cirurgia.
-						
+
+							<h1>Ressonância Magnética da Próstata multiparamétrica (RNMmp)</h1>
+							<p>
+							Este exame fornece informações anatômicas e funcionais. Para a realização dele, pode ser usado um aparelho de 1,5 Tesla (com bobina endoretal) ou um aparelho de 3 Teslas (não havendo necessidade da bobina endoretal). Uma vez obtida a imagem, a mesma será avaliada pela escala chamada PI-RADS. Essa escala vai de 1 a 5 e quanto maior a pontuação maior será a chance de a lesão ser um tumor maligno. A figura abaixo publicada na revista New England Journal of Medicine ilustra a chance de diagnostico de câncer de próstata baseado na escala PIRADS de 3 a 5. A acurácia da RNMmp vai de 84 a 90% com elevado valor preditivo negativo (chance de que um exame normal realmente exclua a presença da doença), de 94%. 
 						</p>
+						<img src="assets/images/grafico.png"><br>
+						<br>
+
+					<h1>Biopsia de fusão guiada pela RNMmp</h1>
+					<p>A técnica clássica da biopsia transretal guiada apenas por ultrassom tem baixa acurácia para colher amostras de lesões suspeitas. A solução para isso é biopsia transretal de fusão, onde se utiliza a imagem da RNMmp para guiar a biopsia associada ao ultrassom transretal. 
+							<br><br>
+							Tratamentos <br><br>
+							<h1>Cirurgia robótica para o câncer de próstata</h1>
+
+							A prostatectomia radical implica na retirada completa da próstata, das vesículas seminais e, quando indicada, na retirada dos linfonodos locais e regionais. Comparada a cirurgia aberta, a cirurgia robótica oferece ao cirurgião um campo de visão ampliado e em três dimensões, permitindo uma visualização de detalhes anatômicos não vistos na cirurgia aberta e nem mesmo na laparoscópica clássica. Com isso, a recuperação é mais rápida com menor tempo de internação hospitalar e perda sanguínea. A incontinência urinaria persistente é um evento raro e a manutenção da potência sexual irá depender da preservação dos nervos (nerve-sparing) durante a dissecção da próstata e de outros fatores, como a disfunção sexual existente antes da cirurgia e a idade do paciente.
+							<br><br>
+							<h1>Terapias focais</h1>
+							As terapias focais são uma alternativa emergente para pacientes selecionados, com doença de menor risco e localizada. O objetivo é tratar o tumor preservando o restante da próstata. Entretanto, como o tumor de próstata pode ser multifocal, algumas vezes a ablação necessita englobar todo um lobo ou até mesmo toda a glândula. 
+							<br>
+							Existem os seguintes tipos de terapias focais: <br><br>
+							Crioterapia <br>
+							Braquiterapia <br>
+							Ultrassom focal (HIFU) <br>
+							Terapia fotodinâmica (TOOKAD) <br>
+							Laser <br>
+							Radiofrequência <br><br>
+
+							As melhores evidências são com os três primeiros métodos, onde existem mais artigos publicados. Em muitos estudos são tratadas apenas a lesão principal (index) que geralmente é a mais clinicamente significativa. Segundo os guidelines mais recentes, as terapias focais são classificadas como abordagem experimental, necessitando mais estudos aprofundados do tipo prospectivo. 
+							<br><br>
+							<h1>Radioterapia</h1>
+							Pode ser utilizada como terapia primaria do câncer de próstata, como adjuvante no tumor avançado, como terapia de resgate após recidiva bioquímica e até mesmo como terapia paliativa em pacientes com doença disseminada. As complicações podem ser cistite e retites hemorrágicas, impotência sexual, incontinência urinaria e estenose de uretra.
+							<br><br>
+							<h1>Vigilância Ativa</h1><br>
+							Estudos realizados principalmente no Canadá pelo Dr. Lowrence Klotz mostraram que alguns tipos de tumores de baixo risco (classificação anatomopatológica do tipo Gleason 6) podem ser apenas acompanhados, sem tratamento definitivo, não causando aumento da mortalidade global e nem da mortalidade específica pelo câncer. 
+							<br>
+							A vigilância é um protocolo restrito que deve ser seguido rigorosamente, baseando-se principalmente em exames clínicos e de PSA semestrais e biópsias a cada 18-24 meses. Uma porcentagem variável de pacientes sai da vigilância ativa (30-50%), seja por aumento do grau do tumor ou por desejo do próprio paciente. Mesmo esses pacientes que saem da vigilância para serem tratados não têm pior evolução do que os pacientes que optaram pelo tratamento definitivo logo no início. A opção pela vigilância ativa deve ser extremamente individualizada, dependendo de diversos fatores, como expectativa de vida da pessoa, presença de comorbidades e principalmente das características do tumor.
+							<br>
+							<h1>Seguimento pós-operatório</h1><br>
+							O seguimento é feito com a dosagem do PSA total. Na suspeita de recidiva bioquímica (pelo aumento do PSA total) podemos utilizar a RNM e o PET-PSMA para identificar o local da recidiva tumoral. Caso a recidiva seja nos linfonodos, podemos realizar a linfadenectomia de resgate, que tem mostrado resultados animadores em estudos iniciais. Outra possibilidade é a radioterapia de resgate, quando a recidiva é no local da retirada da próstata.
+							<br>
+							<h1>A sobrevivência após diagnostico da doença</h1> <br><br>
+							O prognóstico da pessoa com câncer de próstata é complexo e deve ser avaliado individualmente, já que depende do próprio tipo do tumor e de fatores como outras doenças que o paciente tenha e de sua idade. A definição do tratamento é individualizada e deve levar em consideração todos os parâmetros clínicos, em conjunto com os próprios desejos e expectativas de cada paciente. </p>
 
 						
 					</div>
