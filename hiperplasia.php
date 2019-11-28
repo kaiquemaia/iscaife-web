@@ -128,18 +128,20 @@
 			<!-- price section end here -->
 			<!-- quote section start here -->
 
+			<!-- Section ( Agende sua consulta agora!) -->
 			<?php require_once("inc/agendar.php") ?>
-			<!-- quote section end here -->
+
 		</main>
-		<!-- main content wrapping section end here -->
-		<!-- footer of the page start here -->
-		<?php require('inc/footer.php') ?>
-		<!-- footer of the page end here -->
-		<!-- Back Top of the page -->
-	    
-		<?php require_once("inc/form-agendamento.php") ?>
 		
+			<!-- Footer all pages -->
+			<?php require('inc/footer.php') ?>
+			
+
+			<!-- Formulário de contato para agendamento -->
+			<?php require_once("inc/form-agendamento.php") ?>
+
 				<!-- quote form end here -->
+				
 	    	</div>
 	    </div>
 	</div>

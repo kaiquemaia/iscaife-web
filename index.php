@@ -100,10 +100,10 @@
 			</section>
 			<!-- main banner section end here -->
 			<!-- about section start here -->
-			<section class="about-section pad-top-lg pad-bottom-sm" data-scroll-index="2">
+			<section class="about-section pad-top-lg pad-bottom-sm" data-scroll-index="2" id="cirurgia">
 				<div class="container">
 					<!-- main heading start here -->
-					<header class="main-heading row">
+					<header class="main-heading row" >
 						<div class="col-xs-12 col-sm-10 col-sm-push-1 col-lg-8 col-lg-push-2 text-center">
 							<h2 class="heading text-uppercase"><span class="main-color">CIRURGIAS</span></h2>
 							<span class="divider center"></span>
@@ -136,7 +136,7 @@
 			</section>
 			<!-- about section end here -->
 			<!-- counter section start here -->
-			<div class="counter-section text-center bg-img-full pad-top-lg pad-bottom-lg" style="background-image: url(images/img04.jpg);" data-scroll-index="2">
+			<div class="counter-section text-center bg-img-full pad-top-lg pad-bottom-lg" style="background-image: url(images/img04.jpg);" data-scroll-index="2" id="sobre">
 				<div class="container pad-top-xs">
 					<div class="row">
 						<div class="co-xs-12 col-sm-6 pad-bottom-xs">
@@ -235,7 +235,7 @@
 				<div class="container">
 					<!-- main heading start here -->
 					<header class="main-heading row">
-						<div class="col-xs-12 col-sm-10 col-sm-push-1 col-lg-8 col-lg-push-2 text-center">
+						<div class="col-xs-12 col-sm-10 col-sm-push-1 col-lg-8 col-lg-push-2 text-center" id="doencas">
 							<h2 class="heading text-uppercase"><span class="main-color">TRATAMENTO </span> ESPECIALIZADO</h2>
 							<span class="divider center"></span>
 						</div>
@@ -257,7 +257,7 @@
 									<span class="divider"></span>
 									<p>A partir dos quarenta anos inicia-se um processo de crescimento da zona de transição da próstata, na região peri-uretral, que acometerá 80% dos homens. Esse crescimento não causa necessariamente sintomas de obstrução em todos os homens, mas sim em 30-60% de todos acimas dos 65 anos.</p>
 									<a href="hiperplasia.php" class="order text-uppercase lightbox px-4">Ler mais</a>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
+									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
 								</div>
 							</div>
 							<!-- price box end here -->
@@ -279,7 +279,7 @@
 									<span class="divider"></span>
 									<p>O câncer de próstata (CaP) é a neoplasia mais frequente no homem, excetuando-se os tumores de pele. O principal fator de risco é a idade, sendo 65 anos a idade média ao diagnostico. Antes dos 40 anos sua ocorrência é extremamente rara. </p>
 									<a href="cancer-de-prostata.php" class="order text-uppercase lightbox px-4">Ler mais</a>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
+									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
 								</div>
 							</div>
 							<!-- price box end here -->
@@ -299,7 +299,7 @@
 									<span class="divider"></span>
 									<p>O carcinoma de células renais (CCR) é também conhecido como câncer de células renais. Cerca de 9 em cada 10 cânceres renais são carcinomas de células renais. Embora o CCR geralmente cresça como um único tumor dentro de um rim, às vezes há dois ou mais tumores em um rim ou até mesmo tumores em ambos os rins ao mesmo tempo.</p>
 									<a href="cancer-de-rim.php" class="order text-uppercase lightbox px-4">Ler mais</a>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Entrar em contato</a>
+									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar consulta</a>
 								</div>
 							</div>
 							<!-- price box end here -->
@@ -312,17 +312,20 @@
 
 			<!-- background-image: url(http://placehold.it/1920x1080);" -->
 
+			<!-- Section ( Agende sua consulta agora!) -->
 			<?php require_once("inc/agendar.php") ?>
-			<!-- quote section end here -->
+
 		</main>
-		<!-- main content wrapping section end here -->
-		<!-- footer of the page start here -->
-		<?php require('inc/footer.php') ?>
-		<!-- footer of the page end here -->
-		<!-- Back Top of the page -->
-	    
-		<?php require_once("inc/form-agendamento.php") ?>
+		
+			<!-- Footer all pages -->
+			<?php require('inc/footer.php') ?>
+			
+
+			<!-- Formulário de contato para agendamento -->
+			<?php require_once("inc/form-agendamento.php") ?>
+
 				<!-- quote form end here -->
+
 	    	</div>
 	    </div>
 	</div>

@@ -955,6 +955,7 @@ body.boxed-v #wrapper {
 
 .top-list a {
 	color: #ccc;
+	font-size: 15px;
 }
 
 .mt-social {
@@ -1878,4 +1879,12 @@ p {
 
 .bandeiras:hover{
 	filter: grayscale(0);
+}
+
+.bandeiras-brasil {
+	filter: grayscale(0);
+}
+
+.tel {
+	font-size: 15px;
 }

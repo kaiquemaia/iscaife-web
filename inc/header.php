@@ -12,7 +12,7 @@
 					</div>
 					<div clas="">
 							<ul class="list-inline text-right top-list col-xs-12 col-sm-3">
-								<li class="bandeiras"><a href=""  ><img src="assets/images/br.png" alt="" width="23px"></a></li>
+								<li class="bandeiras-brasil"><a href=""  ><img src="assets/images/br.png" alt="" width="23px"></a></li>
 								<li class="bandeiras"><a href=""  ><img src="assets/images/us.png" alt="" width="23px"></a></li>
 								<li class="bandeiras"><a href=""  ><img src="assets/images/pt.png" alt="" width="23px"></a></li>
 								<li class="bandeiras"><a href=""  ><img src="assets/images/es.png" alt="" width="23px"></a></li>
@@ -27,12 +27,12 @@
 							<li>
 								<i class="fa fa-envelope"></i>
 								<strong>E-mail:</strong>
-								<a href="mailto:Mail@Example.com">iscaifeboni@yahoo.com.br</a>
+								<a class="tel" href="mailto:Mail@Example.com">iscaifeboni@yahoo.com.br</a>
 							</li>
 							<li>
 								<i class="fa fa-phone "></i>
 								<strong>Contato:</strong>
-								<a href="tel:1123062848">(011) 2306-2848 </a>
+								<a href="tel:1123062848"><b>(011) 2306-2848 </b></a>
 							</li>
 						</ul>
 					</div>
@@ -44,13 +44,13 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<ul class="nav-list list-inline">
-								<li><a href="index.php" data-scroll-nav="0" class="smooth">Home</a></li>
-                                <li><a href="" data-scroll-nav="2" class="smooth">Sobre o Dr.</a></li>
-                                <li><a href="" data-scroll-nav="3" class="nav-link dropdown-toggle">Cirurgias</a></li>
-								<li><a href="#" data-scroll-nav="4" class="smooth">Doenças</a></li>
+								<li><a href="index.php">Home</a></li>
+                                <li><a href="index.php#sobre"  class="smooth">Sobre o Dr.</a></li>
+                                <li><a href="index.php#cirurgia" class="nav-link dropdown-toggle">Cirurgias</a></li>
+								<li><a href="index.php#doencas" class="smooth">Doenças</a></li>
 								<li><a href="mailto:iscaifeboni@yahoo.com.br">Contato</a></li>
 								
-								<li class="button"><a href="#popup1" class="btn main-bg-color text-uppercase smooth" data-scroll-nav="1">Agendar consulta</a></li>
+								<li class="button"><a href="#popup1" class="btn main-bg-color lightbox text-uppercase smooth">Agendar consulta</a></li>
 							</ul>
 							
 							
