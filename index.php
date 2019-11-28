@@ -84,6 +84,9 @@
 										<div class="form-group">
 											<input type="tel" id="phone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
+										<div class="form-group">
+											<input type="date" id="date" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
+										</div>
 										<div id="msgSubmit" class="form-message hidden"></div>
 										<span class="info"><i class="fa fa-info-circle main-color" aria-hidden="true"></i> Respondemos o mais rápido possível</span>
 										<button class="btn btn-default main-bg-color" type="submit" id="form-submit">ENVIAR</button>
@@ -113,8 +116,8 @@
 							<span class="num main-color">01.</span>
 							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
 							<span class="divider"></span>
-							<p>Existem diversas opções cirúrgicas para o tratamento da HPB, podendo sem endoscópico, aberta, laparoscópica ou até robótica. </p>
-							<a href="#" class="more main-color text-uppercase">LER MAIS</a>
+							<p>Existem diversas opções cirúrgicas para o tratamento da Hiperplasia (aumento) da próstata, podendo ser endoscópico, aberta, laparoscópica ou até robótica. O uso da técnica HoLEP inovou o procedimento para a HPB, com o uso do laser o procedimento é feito por via endoscópica, sem cortes nem perda de sangue. O tempo de internação é de, em média, 24 horas.</p>
+							<a href="cirurgia-hiperplasia.php" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
 						<!-- about box end here -->
 						<!-- about box start here -->
@@ -122,8 +125,8 @@
 							<span class="num main-color">02.</span>
 							<span class="title text-uppercase">O laser em próstata: A enucleação da próstata com holmium laser – HoLEP</span>
 							<span class="divider"></span>
-							<p>O procedimento é realizado pela via trans-uretral onde se utiliza um aparelho que permite a passagem da fibra laser por um de seus canais.</p>
-							<a href="#" class="more main-color text-uppercase">LER MAIS</a>
+							<p>O procedimento é realizado pela via transuretral onde se utiliza um aparelho que permite a passagem da fibra laser por um de seus canais. Nesse procedimento é possível a retirada completa do adenoma prostático, sem deixar nenhum resíduo que possa crescer no futuro e trazer de volta os mesmos problemas.</p>
+							<a href="cirurgia-laser-prostata.php" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
 						<!-- about box end here -->
 						
@@ -145,21 +148,21 @@
 							<p class="o-doutor">Doutor em urologia pela Faculdade de Medicina da USP (FMUSP) e médico assistente da Clínica Urológica do Hospital das Clinicas da USP, especialista em cirurgias minimamente invasivas (HoLEP, Laparoscopia e Robótica).
 								Fellowship em cirurgia robótica e HoLEP na Ospedalle San Raffaele em Milão – Itália.</p>
 
-								<div class="co-xs-12 col-sm-4 inline pad-top-lg">
+								<div class="co-xs-12 col-sm-4 ">
 									<i class="fa fa-graduation-cap " aria-hidden="true" style="font-size: 90px; text-align: left;">
-								    <center><h4>Certificate</h4></center>
+									<h5>MEDICINA <br> UNICAMP</h5>	
 								</i>
 								</div>
 
-								<div class="co-xs-12 col-sm-4 inline pad-top-lg">
+								<div class="co-xs-12 col-sm-4 ">
 									<i class="fa fa-graduation-cap" aria-hidden="true" style="font-size: 90px; text-align: left;">
-									<center><h4>Certificate</h4></center>
+									<h5>RESIDÊNCIA EM CIRURGIA GERAL E UROLOGIA – UNIFESP</h5>	
 								</i>
 								</div>
 
-								<div class="co-xs-12 col-sm-4 inline pad-top-lg">
+								<div class="co-xs-12 col-sm-4 ">
 									<i class="fa fa-graduation-cap" aria-hidden="true" style="font-size: 90px; text-align: left;">
-									<center><h4>Certificate</h4></center>
+									<h5>CIRURGIA <br>ROBÓTICA - ITÁLIA</h5>	
 								</i>
 									
 								</div>
@@ -173,14 +176,19 @@
 			</div>
 			<!-- counter section end here -->
 			<!-- services section starts here -->
-			<section class="services-section pad-top-lg pad-bottom-sm" data-scroll-index="3">
+
+	<!-- ------------------------------------------------------ Trecho de cirurgias excluido ------------------------------------------------------ -->
+
+			<!-- <section class="services-section pad-top-lg pad-bottom-sm" data-scroll-index="3">
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 col-md-6 col-md-push-6 pad-bottom-sm">
 							<div class="txt-box">
-								<!-- main heading start here -->
+							
+							
+
 								<header class="main-heading">
-									<h2 class="heading text-uppercase"><span class="main-color">Lorem</span>  ipsum</h2>
+									<h2 class="heading text-uppercase"><span class="main-color"> </span>  ipsum</h2>
 									<span class="divider"></span>
 									<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been standard. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
 								</header>
@@ -188,13 +196,15 @@
 							</div>
 						</div>
 						<div class="col-xs-12 col-md-6 col-md-pull-7 pad-bottom-sm">
-							<!-- services box start here -->
+							
+							
 							<ul class="services-box list-unstyled text-center" >
 								<li>
 									<div class="over">
 									<i class="fa fa-user-md" style="font-size: 60px; color: #000;"></i>
 										<span class="title text-uppercase "><a href="hiperplasia.php">hiperplasia da próstata</a></span>
-										<!-- <span class="divider white center"></span> -->
+										
+										
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
 									</div>
 								</li>
@@ -202,27 +212,32 @@
 									<div class="over">
 									<i class="fa fa-user-md" style="font-size: 60px; color: #000;"></i>
 										<span class="title text-uppercase"><a href="#">O laser em próstata</a></span>
-										<!-- <span class="divider white center"></span> -->
+										
+										
 										<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod ever since the 1500s.</p>
 									</div>
 								</li>
 							
 							</ul>
-							<!-- services box end here -->
+							
+							
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> -->
+
+ 	<!-- // ------------------------------------------------------ Trecho de cirurgias excluido ------------------------------------------------------ -->
+			
+			
 			<!-- services section end here -->
 			<!-- price section start here -->
-			<section class="bg-img-full price-section pad-top-lg pad-bottom-sm" style="background-image: url(images/img02.jpg);" data-scroll-index="4">
+			<section class="bg-img-full price-section pad-top-lg pad-bottom-sm" style="background-image: url(;" data-scroll-index="4">
 				<div class="container">
 					<!-- main heading start here -->
 					<header class="main-heading row">
 						<div class="col-xs-12 col-sm-10 col-sm-push-1 col-lg-8 col-lg-push-2 text-center">
-							<h2 class="heading text-uppercase"><span class="main-color">Great</span> Pricing Table</h2>
+							<h2 class="heading text-uppercase"><span class="main-color">TRATAMENTO </span> ESPECIALIZADO</h2>
 							<span class="divider center"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
 						</div>
 					</header>
 					<!-- main heading end here -->
@@ -235,7 +250,7 @@
 							<div class="price-box">
 								<header class="header">
 								<h3 class="text-uppercase">Hiperplasia prostática benigna (HPB)</h3>
-								<p>Lorem, ipsum dolor sit amet consectetur </p>
+								
 								</header>
 								<div class="box">
 									
@@ -255,7 +270,7 @@
 							<div class="price-box">
 								<header class="header">
 								<h3 class="text-uppercase">Câncer de próstata</h3>
-								<p>Lorem, ipsum dolor sit amet consectetur </p>
+								
 								</header>
 
 								
@@ -277,7 +292,7 @@
 							<div class="price-box">
 								<header class="header">
 								<h3 class="text-uppercase"> Câncer de Rim</h3>
-								<p>Lorem, ipsum dolor sit amet consectetur </p>
+								
 								</header>
 								<div class="box">
 									
@@ -297,20 +312,7 @@
 
 			<!-- background-image: url(http://placehold.it/1920x1080);" -->
 
-			<section class="bg-img-full bg-img-parallax quote-section pad-top-lg pad-bottom-lg" style="background-image: url(assets/images/banner.jpg);">
-				<span class="overlay"></span>
-				<div class="container">
-					<div class="row">
-						<div class="col-cs-12 col-sm-10 col-lg-8 col-sm-push-1 col-lg-push-2 text-center">
-							<span class="subtitle">Creative Unbounce Landing Page</span>
-							<h2 class="main-color text-uppercase">get a free Quote today</h2>
-							<span class="divider white center"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-							<button class="btn btn-default main-bg-color text-uppercase smooth" data-scroll-nav="1">Click here</button>
-						</div>
-					</div>
-				</div>
-			</section>
+			<?php require_once("inc/agendar.php") ?>
 			<!-- quote section end here -->
 		</main>
 		<!-- main content wrapping section end here -->
@@ -318,30 +320,8 @@
 		<?php require('inc/footer.php') ?>
 		<!-- footer of the page end here -->
 		<!-- Back Top of the page -->
-	    <span id="back-top" class="fa fa-angle-up main-bg-color"></span>
-	    <div class="popup-holder">
-	    	<div id="popup1" class="lightbox">
-				<!-- quote form start here -->
-				<section class="quote-form" style="background-image: url(images/img02.jpg);">
-					<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
-					<span class="form-title text-center">Nos mande uma mensagem</span>
-					<form id="contactForm" data-toggle="validator">
-									<fieldset>
-										<div class="form-group">
-											<input type="text" id="name" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
-										</div>
-										<div class="form-group">
-											<input type="email" id="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
-										</div>
-										<div class="form-group">
-											<input type="tel" id="phone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
-										</div>
-										<div id="msgSubmit" class="form-message hidden"></div>
-										<span class="info"><i class="fa fa-info-circle main-color" aria-hidden="true"></i> Respondemos o mais rápido possível</span>
-										<button class="btn btn-default main-bg-color" type="submit" id="form-submit">ENVIAR</button>
-									</fieldset>
-								</form>
-				</section>
+	    
+		<?php require_once("inc/form-agendamento.php") ?>
 				<!-- quote form end here -->
 	    	</div>
 	    </div>

@@ -250,20 +250,8 @@
 			<!-- price section end here -->
 			<!-- quote section start here -->
 
-			<section class="bg-img-full bg-img-parallax quote-section pad-top-lg pad-bottom-lg" style="background-image: url(http://placehold.it/1920x1080);">
-				<span class="overlay"></span>
-				<div class="container">
-					<div class="row">
-						<div class="col-cs-12 col-sm-10 col-lg-8 col-sm-push-1 col-lg-push-2 text-center">
-							<span class="subtitle">Creative Unbounce Landing Page</span>
-							<h2 class="main-color text-uppercase">get a free Quote today</h2>
-							<span class="divider white center"></span>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
-							<button class="btn btn-default main-bg-color text-uppercase smooth" data-scroll-nav="1">Click here</button>
-						</div>
-					</div>
-				</div>
-			</section>
+			<?php require_once("inc/agendar.php") ?>
+			
 			<!-- quote section end here -->
 		</main>
 		<!-- main content wrapping section end here -->
