@@ -15,7 +15,7 @@
 							<li>
                             <i class="fa fa-envelope "></i>
 								<strong>E-mail:</strong>
-								<a href="mailto:Mail@Example.com">iscaifeboni@yahoo.com.br</a>
+								<a href="mailto:Mail@Example.com">contato@iscaife.com.br</a>
 							</li>
 							<li>
 								<i class="fa fa-phone "></i>
