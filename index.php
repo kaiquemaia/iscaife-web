@@ -61,7 +61,7 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-7">
 							<span class="title">Homem que se cuida não perde o melhor da vida</span>
-							<h1 class="heading text-uppercase">Medicina especializada em <span class="main-color">Saúde Masculina</span></h1>
+							<h1 class="heading text-uppercase"> Urologia  <span class="main-color"> Minimamente Invasiva  </span></h1>
 							<span class="divider white"></span>
 							<div class="btn-holder">
 								<a href="#" class="btn btn-default main-bg-color text-uppercase" data-scroll-nav="2">Saber Mais</a>
@@ -72,7 +72,7 @@
 							<!-- quote form start here -->
 							<section class="quote-form" style="background-image: url(images/img02.jpg);" data-scroll-index="1">
 								<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
-								<span class="form-title text-center">Nos mande uma mensagem</span>
+								<span class="form-title text-center">Fale com um especialista</span>
 								<form id="contactForm" data-toggle="validator">
 									<fieldset>
 										<div class="form-group">
@@ -113,18 +113,18 @@
 					<div class="row">
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
-							<span class="num main-color">01.</span>
-							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
+							<span class="title text-uppercase">A cirurgia para hiperplasia <br> da próstata</span>
 							<span class="divider"></span>
+							<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
 							<p>Existem diversas opções cirúrgicas para o tratamento da Hiperplasia (aumento) da próstata, podendo ser endoscópico, aberta, laparoscópica ou até robótica. O uso da técnica HoLEP inovou o procedimento para a HPB, com o uso do laser o procedimento é feito por via endoscópica, sem cortes nem perda de sangue. O tempo de internação é de, em média, 24 horas.</p>
 							<a href="cirurgia-hiperplasia.php" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
 						<!-- about box end here -->
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
-							<span class="num main-color">02.</span>
-							<span class="title text-uppercase">O laser em próstata: A enucleação da próstata com holmium laser – HoLEP</span>
+							<span class="title text-uppercase">O laser em próstata: A enucleação da próstata <br> com holmium laser – HoLEP</span>
 							<span class="divider"></span>
+							<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
 							<p>O procedimento é realizado pela via transuretral onde se utiliza um aparelho que permite a passagem da fibra laser por um de seus canais. Nesse procedimento é possível a retirada completa do adenoma prostático, sem deixar nenhum resíduo que possa crescer no futuro e trazer de volta os mesmos problemas.</p>
 							<a href="cirurgia-laser-prostata.php" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
@@ -148,25 +148,18 @@
 							<p class="o-doutor">Doutor em urologia pela Faculdade de Medicina da USP (FMUSP) e médico assistente da Clínica Urológica do Hospital das Clinicas da USP, especialista em cirurgias minimamente invasivas (HoLEP, Laparoscopia e Robótica).
 								Fellowship em cirurgia robótica e HoLEP na Ospedalle San Raffaele em Milão – Itália.</p>
 
-								<div class="co-xs-12 col-sm-4 ">
+								<div class="co-xs-12 col-sm-6 " style="text-transform: uppercase;">
 									<i class="fa fa-graduation-cap " aria-hidden="true" style="font-size: 90px; text-align: left;">
-									<h5>MEDICINA <br> UNICAMP</h5>	
+									<h5>Doutor em urologia pela USP</h5>	
 								</i>
 								</div>
 
-								<div class="co-xs-12 col-sm-4 ">
+								<div class="co-xs-12 col-sm-6 " style="text-transform: uppercase;">
 									<i class="fa fa-graduation-cap" aria-hidden="true" style="font-size: 90px; text-align: left;">
-									<h5>RESIDÊNCIA EM CIRURGIA GERAL E UROLOGIA – UNIFESP</h5>	
+									<h5>Clinical Fellowship em cirurgia robótica Ospedalle San Raffaele - Italia</h5>	
 								</i>
 								</div>
 
-								<div class="co-xs-12 col-sm-4 ">
-									<i class="fa fa-graduation-cap" aria-hidden="true" style="font-size: 90px; text-align: left;">
-									<h5>CIRURGIA <br>ROBÓTICA - ITÁLIA</h5>	
-								</i>
-									
-								</div>
-							
 						</div>
 					</div>
 				</div>
@@ -248,13 +241,16 @@
 						<div class="col-xs-12 col-sm-6 col-md-4 pad-bottom-sm">
 							<!-- price box start here -->
 							<div class="price-box">
-								<header class="header">
+								<!-- <header class="header">
 								<h3 class="text-uppercase">Hiperplasia prostática benigna (HPB)</h3>
+								<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
 								
-								</header>
+								</header> -->
 								<div class="box">
-									
-									<span class="divider"></span>
+
+								<h3 class="text-uppercase">Hiperplasia prostática benigna (HPB)</h3>
+								<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">	
+								
 									<p>A partir dos quarenta anos inicia-se um processo de crescimento da zona de transição da próstata, na região peri-uretral, que acometerá 80% dos homens. Esse crescimento não causa necessariamente sintomas de obstrução em todos os homens, mas sim em 30-60% de todos acimas dos 65 anos.</p>
 									<a href="hiperplasia.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
@@ -268,15 +264,17 @@
 						<div class="col-xs-12 col-sm-6 col-md-4 pad-bottom-sm">
 							<!-- price box start here -->
 							<div class="price-box">
-								<header class="header">
+								<!-- <header class="header">
 								<h3 class="text-uppercase">Câncer de próstata</h3>
 								
-								</header>
+								</header> -->
 
 								
 								<div class="box">
 									
-									<span class="divider"></span>
+								<h3 class="text-uppercase">Cancêr <br> de prostata</h3>
+								<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
+
 									<p>O câncer de próstata (CaP) é a neoplasia mais frequente no homem, excetuando-se os tumores de pele. O principal fator de risco é a idade, sendo 65 anos a idade média ao diagnostico. Antes dos 40 anos sua ocorrência é extremamente rara. </p>
 									<a href="cancer-de-prostata.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
@@ -290,13 +288,15 @@
 						<div class="col-xs-12 col-sm-6 col-md-4 pad-bottom-sm">
 							<!-- price box start here -->
 							<div class="price-box">
-								<header class="header">
+								<!-- <header class="header">
 								<h3 class="text-uppercase"> Câncer de Rim</h3>
 								
-								</header>
+								</header> -->
 								<div class="box">
 									
-									<span class="divider"></span>
+									<h3 class="text-uppercase">Cancêr <br> de Rim</h3>
+								<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
+
 									<p>O carcinoma de células renais (CCR) é também conhecido como câncer de células renais. Cerca de 9 em cada 10 cânceres renais são carcinomas de células renais. Embora o CCR geralmente cresça como um único tumor dentro de um rim, às vezes há dois ou mais tumores em um rim ou até mesmo tumores em ambos os rins ao mesmo tempo.</p>
 									<a href="cancer-de-rim.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar consulta</a>

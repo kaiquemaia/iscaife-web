@@ -4,7 +4,7 @@
 				<!-- quote form start here -->
 				<section class="quote-form" style="background-image: url(images/img02.jpg);">
 					<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
-					<span class="form-title text-center">Nos mande uma mensagem</span>
+					<span class="form-title text-center">Fale com um especialista</span>
 					<form id="contactForm" data-toggle="validator">
 									<fieldset>
 										<div class="form-group">

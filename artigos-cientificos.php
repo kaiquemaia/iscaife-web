@@ -40,11 +40,8 @@
 		<div class="loader-container" id="loader">
 			<div class="holder">
 				<div class="la-line-scale la-2x">
-					<div></div>
-					<div></div>
-					<div></div>
-					<div></div>
-					<div></div>
+					
+				
 				</div>
 			</div>
 		</div>
@@ -65,7 +62,7 @@
 			</section>
 			<!-- main banner section end here -->
 			<!-- about section start here -->
-			<section class="about-section pad-top-lg pad-bottom-sm" data-scroll-index="2">
+			<section class="about-section pad-top-lg" data-scroll-index="2">
 				<div class="container">
 					<!-- main heading start here -->
 					<header class="main-heading row">
@@ -73,14 +70,14 @@
 					</header>
 					<div class="row">
 						<!-- about box start here -->
-						<div class="col-xs-12 col-sm-12 col-md-12 about-box pad-bottom-sm">
+						<div class="col-xs-12 col-sm-12 col-md-12 about-box">
 							<!-- <span class="num main-color">01.</span> -->
 							<span class="title text-uppercase">Artigos científicos publicados em revistas cientificas</span>
 							<span class="divider"></span>
 							
 							
 						<div class="inline">
-							<div class="col-xs-12 col-sm-4 col-md-4  pad-top-sm">
+							<div class="col-xs-12 col-sm-12 col-md-12 ">
 								<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -90,7 +87,7 @@
 									</div>
 									</div></p>
 							</div>
-							<div class="col-xs-12 col-sm-4 col-md-4  pad-top-sm">
+							<div class="col-xs-12 col-sm-12 col-md-12 ">
 							<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -101,7 +98,7 @@
 									</div></p>
 							</div>
 
-							<div class="col-xs-12 col-sm-4 col-md-4  pad-top-sm">
+							<div class="col-xs-12 col-sm-12 col-md-12 ">
 							<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -113,27 +110,8 @@
 							</div>
 
 
-						</div>
-						
 					
-					</div>
-					<div></div>
-
-					<!-- Segunda linha -->
-
-					<div class="inline">
-						<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
-								<p><div class="card" style="width:">
-										<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
-										<div class="card-body">
-											<h3 class="card-title"><a href="https://www.ncbi.nlm.nih.gov/pubmed/27713638">Nanoradiopharmaceuticals for breast cancer imaging: development, characterization, and imaging in inducted animals.</a></h3>
-											<p class="card-text">https://www.ncbi.nlm.nih.gov/pubmed/27713638</p>
-											<a href="https://www.ncbi.nlm.nih.gov/pubmed/27713638" class="btn btn-primary">Ler agora</a>
-										</div>
-										</div></p>
-								</div>
-
-								<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+								<div class="col-xs-12 col-sm-12 col-md-12 ">
 							<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -144,7 +122,7 @@
 									</div></p>
 							</div>
 
-							<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+							<div class="col-xs-12 col-sm-12 col-md-12 ">
 							<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -157,7 +135,7 @@
 						</div>
 
 						<div class="inline">
-						<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+						<div class="col-xs-12 col-sm-12 col-md-12 ">
 								<p><div class="card" style="width:">
 										<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 										<div class="card-body">
@@ -168,7 +146,7 @@
 										</div></p>
 								</div>
 
-								<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+								<div class="col-xs-12 col-sm-12 col-md-12 ">
 							<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -179,7 +157,7 @@
 									</div></p>
 							</div>
 
-							<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+							<div class="col-xs-12 col-sm-12 col-md-12 ">
 							<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -194,7 +172,7 @@
 						<!-- Linha 4 -->
 
 						<div class="inline">
-						<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+						<div class="col-xs-12 col-sm-12 col-md-12 ">
 								<p><div class="card" style="width:">
 										<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 										<div class="card-body">
@@ -205,7 +183,7 @@
 										</div></p>
 								</div>
 
-								<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+								<div class="col-xs-12 col-sm-12 col-md-12 ">
 							<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -216,7 +194,7 @@
 									</div></p>
 							</div>
 
-							<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+							<div class="col-xs-12 col-sm-12 col-md-12 ">
 							<p><div class="card" style="width:">
 									<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 									<div class="card-body">
@@ -231,7 +209,7 @@
 						<!-- Linha 5 -->
 
 						<div class="inline">
-						<div class="col-xs-12 col-sm-4 col-md-4 pad-bottom-sm ">
+						<div class="col-xs-12 col-sm-12 col-md-12 pad-bottom-sm ">
 								<p><div class="card" style="width:">
 										<!-- <img src="assets/images/dr.jpg" class="card-img-top" alt="..."> -->
 										<div class="card-body">
