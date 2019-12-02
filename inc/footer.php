@@ -22,6 +22,7 @@
 								<strong>Contato:</strong>
 								<a href="tel:1123062848">(011) 2306-2848 </a>
 							</li>
+						
 						</ul>
 					</div>
 				</div>
@@ -30,6 +31,7 @@
 				<div class="row">
 					<!-- footer bottom container -->
 					<div class="col-xs-12 col-sm-6 bottom">
+					<center><p>R. Pamplona, 145 - Sala 1517 - Jardim Paulista, São Paulo - SP, 01405-000</p></center>
 						<p>2019 © Dr. Alexandre | Todos os direitos reservados | Desenvolvido por <a href="http://380volts.com.br"> 380 Volts </a></p>
 					</div>
 					<!-- footer bottom container -->

@@ -45,7 +45,7 @@
 						<div class="col-xs-12">
 							<ul class="nav-list list-inline">
 								<li><a href="index.php">Home</a></li>
-                                <li><a href="index.php#sobre"  class="smooth">Sobre o Dr.</a></li>
+                                <li><a href="doutor.php"  class="smooth">Sobre o Dr.</a></li>
                                 <li><a href="index.php#cirurgia" class="nav-link dropdown-toggle">Cirurgias</a></li>
 								<li><a href="index.php#doencas" class="smooth">Doenças</a></li>
 								<li><a href="artigos-cientificos.php" class="smooth">Pesquisas médicas</a></li>
