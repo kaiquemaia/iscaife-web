@@ -55,7 +55,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/banner2.jpg);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/clinica/5.jpeg);" data-scroll-index="0">
 				<span class="overlay"></span>
 				<div class="container">
 					<div class="row">
@@ -115,16 +115,16 @@
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<span class="title text-uppercase">A cirurgia para hiperplasia <br> da próstata</span>
 							<span class="divider"></span>
-							<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
+							<img src="assets/images/clinica/2.jpeg" width="" height="50px"  alt="">
 							<p>Existem diversas opções cirúrgicas para o tratamento da Hiperplasia (aumento) da próstata, podendo ser endoscópico, aberta, laparoscópica ou até robótica. O uso da técnica HoLEP inovou o procedimento para a HPB, com o uso do laser o procedimento é feito por via endoscópica, sem cortes nem perda de sangue. O tempo de internação é de, em média, 24 horas.</p>
 							<a href="cirurgia-hiperplasia.php" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
 						<!-- about box end here -->
 						<!-- about box start here -->
-						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
+						<div class="col-xs-22 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<span class="title text-uppercase">O laser em próstata: A enucleação da próstata <br> com holmium laser – HoLEP</span>
 							<span class="divider"></span>
-							<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
+							<img src="assets/images/clinica/3.jpeg" width="" height="100px" alt="">
 							<p>O procedimento é realizado pela via transuretral onde se utiliza um aparelho que permite a passagem da fibra laser por um de seus canais. Nesse procedimento é possível a retirada completa do adenoma prostático, sem deixar nenhum resíduo que possa crescer no futuro e trazer de volta os mesmos problemas.</p>
 							<a href="cirurgia-laser-prostata.php" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
@@ -251,7 +251,7 @@
 								<h3 class="text-uppercase">Hiperplasia prostática benigna (HPB)</h3>
 								<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">	
 								
-									<p>A partir dos quarenta anos inicia-se um processo de crescimento da zona de transição da próstata, na região peri-uretral, que acometerá 80% dos homens. Esse crescimento não causa necessariamente sintomas de obstrução em todos os homens, mas sim em 30-60% de todos acimas dos 65 anos.</p>
+									<p>A partir dos quarenta anos inicia-se um processo de crescimento da zona de transição da próstata, na região peri-uretral, que acometerá 80% dos homens. Esse crescimento não causa necessariamente sintomas de obstrução em todos os homens, mas sim em 30-60% de todos acima dos 65 anos.</p>
 									<a href="hiperplasia.php" class="order text-uppercase lightbox px-4">Ler mais</a>
 									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
 								</div>
@@ -272,7 +272,7 @@
 								
 								<div class="box">
 									
-								<h3 class="text-uppercase">Cancêr <br> de prostata</h3>
+								<h3 class="text-uppercase">Câncer <br> de prostata</h3>
 								<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
 
 									<p>O câncer de próstata (CaP) é a neoplasia mais frequente no homem, excetuando-se os tumores de pele. O principal fator de risco é a idade, sendo 65 anos a idade média ao diagnostico. Antes dos 40 anos sua ocorrência é extremamente rara. </p>
@@ -294,7 +294,7 @@
 								</header> -->
 								<div class="box">
 									
-									<h3 class="text-uppercase">Cancêr <br> de Rim</h3>
+									<h3 class="text-uppercase">Câncer <br> de Rim</h3>
 								<img src="http://sbu-sp.org.br/wp-content/uploads/2017/12/post_noticia_12-990x556.png" alt="">
 
 									<p>O carcinoma de células renais (CCR) é também conhecido como câncer de células renais. Cerca de 9 em cada 10 cânceres renais são carcinomas de células renais. Embora o CCR geralmente cresça como um único tumor dentro de um rim, às vezes há dois ou mais tumores em um rim ou até mesmo tumores em ambos os rins ao mesmo tempo.</p>

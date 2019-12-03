@@ -1,4 +1,4 @@
-<section class="bg-img-full bg-img-parallax quote-section pad-top-lg pad-bottom-lg" style="background-image: url(assets/images/banner.jpg);">
+<section class="bg-img-full bg-img-parallax quote-section pad-top-lg pad-bottom-lg" style="background-image: url(assets/images/clinica/7.jpeg);">
 				<span class="overlay"></span>
 				<div class="container">
 					<div class="row">

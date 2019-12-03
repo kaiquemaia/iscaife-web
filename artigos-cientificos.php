@@ -51,7 +51,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/bg/cancer-rim.jpg);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/clinica/4.jpeg);" data-scroll-index="0">
 				<!-- <span class="overlay"></span> -->
 				<div class="container">
 					<div class="row">
@@ -72,7 +72,7 @@
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-12 col-md-12 about-box">
 							<!-- <span class="num main-color">01.</span> -->
-							<span class="title text-uppercase">Artigos científicos publicados em revistas cientificas</span>
+							<span class="title text-uppercase">Artigos científicos publicados em revistas científicas</span>
 							<span class="divider"></span>
 							
 							

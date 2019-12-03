@@ -54,7 +54,7 @@
 		<!-- main content wrapping section start here -->
 		<main id="main">
 			<!-- main banner section start here -->
-			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/bg/Hiperplasia.jpg);" data-scroll-index="0">
+			<section class="bg-img-full main-banner bg-img-parallax" style="background-image: url(assets/images/clinica/4.jpeg);" data-scroll-index="0">
 				<!-- <span class="overlay"></span> -->
 				<div class="container">
 					<div class="row">
@@ -77,12 +77,11 @@
 							<!-- <span class="num main-color">01.</span> -->
 							<span class="title text-uppercase">Atividades acadêmicas</span>
 							<span class="divider"></span>
-							<h1>Definição e causas</h1>
-							<p>Dr. Alexandre Iscaife coordena plenária de Laser em HPB e o primeiro curso prático de HoLEP no Congresso Paulista de Urologia de 2018
+							<p>O Dr. Alexandre Iscaife coordena plenária de Laser em HPB e o primeiro curso prático de HoLEP no Congresso Paulista de Urologia de 2018
 								<br><br>
-								No dia 5 de setembro foi realizado sob a coordenação do Dr Alexandre Iscaife o primeiro curso prático de HoLEP no congresso paulista. Nesse curso foram realizadas aulas teóricas e cirurgias ao vivo.
+							No dia 5 de setembro de 2018 foi realizado, sob a coordenação do Dr. Alexandre Iscaife, o primeiro curso prático de HoLEP no Congresso Paulista. Nesse curso foram realizadas aulas teóricas e cirurgias ao vivo.
 								<br><br>
-								No dia 6 de setembro o Dr Alexandre Iscaife coordenou a plenária I sobre o tratamento da HPB com bexiga hipocontrátil para discutir entre o HoLEP e o Greenlight.</p>
+							No dia 6 de setembro de 2018, o Dr Alexandre Iscaife coordenou a plenária I sobre o tratamento da HPB com bexiga hipocontrátil para discutir entre o HoLEP e o Greenlight.</p>
 						</div>
 						<!-- about box end here -->
 						<!-- about box start here -->
@@ -93,7 +92,7 @@
 						<!-- about box end here -->
 						<p><b><center>No dia 11 de abril de 2019, Dr Alexandre Iscaife coordena curso de HoLEP na Jornada Paulista De Urologia de 2019</center></b></p>
 
-						<p>No dia 11 de abril de 2019 foi realizado sob a coordenação do Dr Alexandre Iscaife o curso passo a passo de HoLEP na jornada paulista de urologia. Nesse curso foram ministradas aulas com especificidades técnicas do HoLEP, contamos com a participação do Dr. Mariano Gonzalez de Buenos Aires (ARG)
+						<p>No dia 11 de abril de 2019 foi realizado, sob a coordenação do Dr Alexandre Iscaife, o Curso Passo a Passo de HoLEP na Jornada Paulista de Urologia. Nesse curso foram ministradas aulas com especificidades técnicas do HoLEP e contamos com a participação do Dr. Mariano Gonzalez de Buenos Aires (ARG).
 
 						<br><br>
 
@@ -106,17 +105,17 @@
 						Palestrante: Alexandre Iscaife (SP) <br><br>
 
 
-						<b>Técnica trilobar passo-a-passo</b><br>
+						<b>Técnica trilobar passo a passo</b><br>
 
 						Palestrante: Mariano Sebastian Gonzalez (ARG) <br><br>
 
 
-						<b>Técnica en-bloc passo-a-passo</b><br>
+						<b>Técnica en-bloc passo a passo</b><br>
 
 						Palestrante: Alexandre Iscaife (SP) <br><br>
 
 
-						<b>Morcelação passo-a-passo</b><br>
+						<b>Morcelação passo a passo</b><br>
 
 						Palestrante: Mariano Sebastian Gonzalez (ARG)</p>
 						
