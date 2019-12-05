@@ -5,19 +5,19 @@
 				<section class="quote-form" style="background-image: url(images/img02.jpg);">
 					<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
 					<span class="form-title text-center">Fale com um especialista</span>
-					<form id="contactForm" data-toggle="validator">
+					<form id="contactForm" data-toggle="validator" action="enviarEmail.php" method="POST" >
 									<fieldset>
 										<div class="form-group">
-											<input type="text" id="name" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="text" id="name" name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
-											<input type="email" id="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="email" id="email" name="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
-											<input type="tel" id="phone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="tel" id="phone" name="telefone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
-											<input type="date" id="date" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="date" id="date" name="data" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 
 										<div id="msgSubmit" class="form-message hidden"></div>

@@ -55,12 +55,7 @@
 								
 								<li class="button"><a href="#popup1" class="btn main-bg-color lightbox text-uppercase smooth">Agendar consulta</a></li>
 							</ul>
-							
-							
-                            
-						</div>
-						<a href=""  ><img src="../assets/images/br.png" alt=""></a>
-					</div>
+						
 				</div>
 			</nav>
 			<!-- page navigation end here -->
