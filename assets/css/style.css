@@ -1427,6 +1427,7 @@ body.boxed-v #wrapper {
 	-webkit-transform: translateY(50%);
 	-ms-transform: translateY(50%);
 	transform: translateY(50%);
+	font-size: 16px;
 }
 
 .services-section .services-box .title {
@@ -1507,6 +1508,7 @@ body.boxed-v #wrapper {
 
 .price-box p {
 	margin: 0;
+	font-size: 16px;
 }
 
 .price-box .box {
@@ -1517,6 +1519,7 @@ body.boxed-v #wrapper {
 
 .price-box .box p {
 	margin: 0 0 22px;
+	font-size: 16px;
 }
 
 .price-box h3 {
@@ -1556,6 +1559,7 @@ body.boxed-v #wrapper {
 
 .quote-section p {
 	margin: 0 0 28px;
+	font-size: 16px;
 }
 
 .quote-section .divider {
@@ -1868,6 +1872,7 @@ p {
 	text-align: justify!important;
 	text-justify: inter-word!important;
 	padding: 10px;
+	font-size: 16px!important;
 }
 
 
