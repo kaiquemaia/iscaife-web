@@ -31,6 +31,9 @@
 	<link rel="stylesheet" href="assets/css/color.css">
 	<!-- Font Awsome -->
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+	<meta name="keywords" content="urologia, cancer de prostata, cirurgia, cirurgia de prostata, hiperplasia, laser em prostata, enucleação da prostata, holep, cancer de rim, hiperplasia prostatica"/>
+
+
 	
 	
 </head>

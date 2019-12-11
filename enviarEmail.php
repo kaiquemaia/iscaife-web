@@ -1,78 +1,63 @@
-
 <?php
+if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
+	$_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/") {
 
-$para = "kaique@380volts.com.br";
-$nome = $_POST['nome'];
-$email = $_POST['email'];
-$telefone = $_POST['telefone'];
-$data = $_POST['data'];
+    require_once("class.phpmailer.php");
+
+    $mailer = new PHPMailer();
+    $mailer->IsSMTP();
+    $mailer->SMTPDebug = 1;
+    $mailer->Port = 587; //Indica a porta de conexão para a saída de e-mails. Utilize obrigatoriamente a porta 587.
+
+    $mailer->Host = 'mail.380v.com.br'; //Onde em 'servidor_de_saida' deve ser alterado por um dos hosts abaixo:
+    //Para cPanel: 'mail.dominio.com.br';
+    //Para Plesk 11 / 11.5: 'smtp.dominio.com.br';
+
+    //Descomente a linha abaixo caso revenda seja 'Plesk 11.5 Linux'
+    //$mailer->SMTPSecure = 'tls';
+
+    $nome = addslashes($_POST[nome]);
+    $email = addslashes($_POST[email]);
+    $telefone = addslashes($_POST[telefone]);
+	  $date = addslashes($_POST[date]);
+    // $mensagem = addslashes($_POST[mensagem]);
 
 
-// Compo E-mail
-  $arquivo = "
-  <style type='text/css'>
-  body {
-  margin:0px;
-  font-family:Verdane;
-  font-size:12px;
-  color: #666666;
-  }
-  a{
-  color: #666666;
-  text-decoration: none;
-  }
-  a:hover {
-  color: #FF0000;
-  text-decoration: none;
-  }
-  </style>
-    <html>
-        <table width='510' border='1' cellpadding='1' cellspacing='1' bgcolor='#CCCCCC'>
-            <tr>
-              <td>
-  <tr>
-                 <td width='500'>Nome:$nome</td>
-                </tr>
-                <tr>
-                  <td width='320'>E-mail:<b>$email</b></td>
-     </tr>
-      <tr>
-                  <td width='320'>Telefone:<b>$telefone</b></td>
-                </tr>
-     <tr>
-                  <td width='320'>Data:$data</td>
-                </tr>
-                
-            </td>
-          </tr>  
-          <tr>
-            <td>Este e-mail foi enviado em <b>$data_envio</b> às <b>$hora_envio</b></td>
-          </tr>
-        </table>
-    </html>
-  ";
+    $mailer->SMTPAuth = false; //Define se haverá ou não autenticação no SMTP
+    $mailer->Username = 'iscaife@380v.com.br'; //Informe o e-mai o completo
+    $mailer->Password = 'agencia@380'; //Senha da caixa postal
+    $mailer->FromName = 'Contato pelo site'; //Nome que será exibido para o destinatário
+    $mailer->From = 'iscaife@380v.com.br'; //Obrigatório ser a mesma caixa postal indicada em "username"
+    $mailer->AddAddress('iscaife@380v.com.br'); //Destinatários
+    $mailer->Subject = 'Contato pelo site - ' . date("H:i") . '-' . date("d/m/Y");
+    $mailer->Body = "Dados do contato
 
-  	
-    //enviar
-    
-    // emails para quem será enviado o formulário
-    $emailenviar = "kaique@380volts.com.br";
-    $destino = $emailenviar;
-    $assunto = "Contato pelo Site";
-    
-    // É necessário indicar que o formato do e-mail é html
-    $headers  = 'MIME-Version: 1.0' . "\r\n";
-        $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-        $headers .= 'From: $nome <$email>';
-    //$headers .= "Bcc: $EmailPadrao\r\n";
-    
-    $enviaremail = mail($nome, $email, $telefone, $data,  $headers);
-    if($enviaremail){
-    $mgm = "E-MAIL ENVIADO COM SUCESSO! <br> O link será enviado para o e-mail fornecido no formulário";
-    echo " <meta http-equiv='refresh' content='10;URL=https://www.iscaife.com.br'>";
+    Nome: $nome
+
+    Email: $email
+
+    Telefone: $telefone
+
+    Data de agendamento: $date";
+
+    $mailer->CharSet = 'UTF-8';
+    if (!$mailer->Send()) {
+        echo "Mensagem não enviada";
+        echo "Erro: " . $mailer->ErrorInfo;
+        exit;
     } else {
-    $mgm = "ERRO AO ENVIAR E-MAIL!";
-    echo "";
+        ?>
+        <script>
+            alert("Sua mensagem foi enviada com sucesso.");
+            window.location = "https://www.iscaife.com.br/";
+        </script>
+    <?php
     }
+
+}
+else{
+    echo "Acesso não autorizado";
+    exit;
+}
 
 ?>

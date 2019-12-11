@@ -73,20 +73,20 @@
 							<section class="quote-form" style="background-image: url(images/img02.jpg);" data-scroll-index="1">
 								<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
 								<span class="form-title text-center">Fale com um especialista</span>
-								<form id="contactForm" data-toggle="validator">
+								<form  method="post" data-toggle="validator" action="enviarEmail.php">
 									<fieldset>
 										<div class="form-group">
-											<input type="text" id="name" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="text" id="name"  name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
-											<input type="email" id="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="email" id="email" name="email"  placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
-											<input type="tel" id="phone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="tel" id="phone"  name="telefone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
 											<p>Data da consulta:</p>
-											<input type="date" id="date" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="date" id="date"  name="date" placeholder="Data" class="form-control">
 										</div>
 										<div id="msgSubmit" class="form-message hidden"></div>
 										<span class="info"><i class="fa fa-info-circle main-color" aria-hidden="true"></i> Respondemos o mais rápido possível</span>
@@ -116,7 +116,7 @@
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<span class="title ">A cirurgia para hiperplasia <br> da próstata</span>
 							<span class="divider"></span>
-							<img src="assets/images/clinica/2.jpeg" width="" height="50px"  alt="">
+							<img src="assets/images/hiperplasia.png" width="" height="50px"  alt="">
 							<p>Existem diversas opções cirúrgicas para o tratamento da Hiperplasia (aumento) da próstata, podendo ser endoscópico, aberta, laparoscópica ou até robótica. O uso da técnica HoLEP inovou o procedimento para a HPB, com o uso do laser o procedimento é feito por via endoscópica, sem cortes nem perda de sangue. O tempo de internação é de, em média, 24 horas.</p>
 							<a href="cirurgia-hiperplasia.php" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
@@ -125,7 +125,7 @@
 						<div class="col-xs-22 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<span class="title ">O laser em próstata: A enucleação da próstata <br> com holmium laser – HoLEP</span>
 							<span class="divider"></span>
-							<img src="assets/images/clinica/3.jpeg" width="" height="100px" alt="">
+							<img src="assets/images/laser.png" width="" height="100px" alt="">
 							<p>O procedimento é realizado pela via transuretral onde se utiliza um aparelho que permite a passagem da fibra laser por um de seus canais. Nesse procedimento é possível a retirada completa do adenoma prostático, sem deixar nenhum resíduo que possa crescer no futuro e trazer de volta os mesmos problemas.</p>
 							<a href="cirurgia-laser-prostata.php" class="more main-color text-uppercase">LER MAIS</a>
 						</div>
@@ -318,12 +318,30 @@
 				<span class="overlay"></span>
 				<div class="container">
 					<div class="row">
-						<div class="col-cs-12 col-sm-10 col-lg-10 col-sm-push-1 col-lg-push-2 text-center">
+						<div class="col-cs-12 col-sm-10 col-lg-8 col-sm-push-5 col-lg-push-2 text-center">
 						
-							<h2 class="main-color text-uppercase">Agende sua consulta Agora!</h2>
-							<!-- <h3 class="main-color text-uppercase">Com um especialista</h3> -->
-							<span class="divider white center"></span>
-							<a href="#popup1" class="order text-uppercase lightbox px-4"><button class="btn btn-default main-bg-color text-uppercase smooth">Agendar</button></a>
+						<form id="duvida" data-toggle="validator" action="enviar-duvida.php" method="POST" >
+							<h1><center>Dúvidas</center></h1>
+									<fieldset>
+										<div class="form-group col-md-6">
+											<input type="text" id="name" name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
+										</div>
+										<div class="form-group col-md-6">
+											<input type="tel" id="phone"  name="telefone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
+										</div>
+										<div class="form-group col-md-12">
+											<input type="email" id="email" name="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
+										</div>
+										<div class="form-group col-md-12" row="3">
+										<textarea class="form-control" name="textarea" placeholder="Sua dúvida" rows="3"></textarea>
+										</div>
+
+										<div id="msgSubmit" class="form-message hidden"></div>
+										<span class="info"><i class="fa fa-info-circle main-color" aria-hidden="true"></i> Respondemos o mais rápido possível</span><br>
+										<button class="btn btn-default main-bg-color" type="submit" id="form-submit">ENVIAR</button>
+									</fieldset>
+								</form>
+								
 						</div>
 					</div>
 				</div>

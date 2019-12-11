@@ -5,7 +5,7 @@
 				<section class="quote-form" style="background-image: url(images/img02.jpg);">
 					<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
 					<span class="form-title text-center">Fale com um especialista</span>
-					<form id="contactForm" data-toggle="validator" action="enviarEmail.php" method="POST" >
+					<form id="form-popup" data-toggle="validator" action="enviarEmail.php" method="POST" >
 									<fieldset>
 										<div class="form-group">
 											<input type="text" id="name" name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
@@ -17,7 +17,8 @@
 											<input type="tel" id="phone" name="telefone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
-											<input type="date" id="date" name="data" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
+										<p>Data da consulta:</p>
+											<input type="date" id="date" name="date" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 
 										<div id="msgSubmit" class="form-message hidden"></div>
