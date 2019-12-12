@@ -1070,7 +1070,9 @@ textarea {
 
 a {
   color: #d9b166;
-  text-decoration: none; }
+  text-decoration: none; 
+  font-size: 16px!important; 
+}
   a:hover, a:focus {
     color: #d9b166;
     text-decoration: none; }

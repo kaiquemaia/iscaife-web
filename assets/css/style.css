@@ -31,6 +31,8 @@ Theme URI:
 	1. import files
 -------------------------------------------------------------------*/
 
+
+
 .clearfix:after,
 .widget:after,
 .search-form:after,
@@ -908,6 +910,7 @@ body.boxed-v #wrapper {
 	color: #333;
 	-webkit-transition: all ease .3s;
 	transition: all ease .3s;
+	font-size: 16px;
 }
 
 #nav .nav-list .button {
@@ -955,7 +958,7 @@ body.boxed-v #wrapper {
 
 .top-list a {
 	color: #ccc;
-	font-size: 15px;
+	font-size: 16px;
 }
 
 .mt-social {

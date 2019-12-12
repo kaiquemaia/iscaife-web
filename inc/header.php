@@ -31,8 +31,9 @@
 							</li>
 							<li>
 								<i class="fa fa-phone "></i>
-								<strong>Contato:</strong>
-								<a href="tel:1123062848"><b>(011) 2306-2848 </b></a>
+								
+								<a href="tel:1123062848">(11) 2306-2848</a><br>
+								<a href="https://wa.me/11989345788">(11) 98934-5788</a>
 							</li>
 						</ul>
 					</div>
