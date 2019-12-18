@@ -19,8 +19,8 @@
 							</li>
 							<li>
 								<i class="fa fa-phone "></i>
-								<strong>Contato:</strong>
-								<a href="tel:1123062848">(011) 2306-2848 </a>
+								<a href="tel:1123062848">(11) 2306-2848</a><br>
+								<a href="https://wa.me/11989345788">(11) 98934-5788</a>
 							</li>
 						
 						</ul>
@@ -45,6 +45,16 @@
 				</div>
 			</div>
 		</footer>
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154764730-1"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-154764730-1');
+		</script>
 
 		<script src="//code.tidio.co/apqzl83yszyex06az0q4w7kbkolo9ndz.js" async>   
 
