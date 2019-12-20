@@ -19,7 +19,7 @@ if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
     $nome = addslashes($_POST[nome]);
     $email = addslashes($_POST[email]);
     $telefone = addslashes($_POST[telefone]);
-	  $date = addslashes($_POST[date]);
+	$date = addslashes($_POST[date]);
     // $mensagem = addslashes($_POST[mensagem]);
 
 

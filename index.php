@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+	<?php $title = "Sobre"; ?>
 	<!-- set the encoding of your site -->
 	<meta charset="utf-8">
 	<!-- set the viewport width and initial-scale on mobile devices -->
@@ -73,6 +75,7 @@
 							<!-- quote form start here -->
 							<section class="quote-form" style="background-image: url(images/img02.jpg);" data-scroll-index="1">
 								<h2 class="form-heading text-center text-uppercase">Tire suas dúvidas</h2>
+								<h4 class=" text-center">Sobre HoLEP e cirurgia robótica</h4>
 								<span class="form-title text-center"></span>
 								<form  method="post" data-toggle="validator" action="enviarEmail.php">
 									<fieldset>
@@ -329,6 +332,7 @@
 						
 						<form id="duvida" data-toggle="validator" action="enviar-duvida.php" method="POST" >
 							<h1><center>Dúvidas</center></h1>
+							<h4 class=" text-center">Sobre HoLEP e cirurgia robótica</h4><br>
 									<fieldset>
 										<div class="form-group col-md-6">
 											<input type="text" id="name" name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">

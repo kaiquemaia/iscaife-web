@@ -91,9 +91,9 @@
 						<div class="col-xs-12col-md-6 about-box pad-bottom-sm">
 							<!-- <span class="num main-color">02.</span> -->
 							<img src="https://hilab.com.br/wp-content/uploads/2019/04/faca-exame-doutor.png" alt="">
-						</div>
+						</div><br><br>
 						<!-- about box end here -->
-						<p>
+						<p class="text-justify ">
 						<h1>Analise patológica</h1>
 
 						Na primeira consulta de retorno pós cirurgico o resultado do exame patológico já estará pronto. Em 95% o diagnostico é hiperplasia benigna da próstata. Em 5% ocorre o que chamamos de tumor de próstata incidental, que geralmente é de baixo grau sendo apenas acompanhado com exames periódicos
