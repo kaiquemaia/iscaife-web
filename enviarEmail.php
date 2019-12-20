@@ -19,7 +19,8 @@ if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
     $nome = addslashes($_POST[nome]);
     $email = addslashes($_POST[email]);
     $telefone = addslashes($_POST[telefone]);
-	$date = addslashes($_POST[date]);
+    $date = addslashes($_POST[date]);
+    $time = addslashes($_POST[time]);
     // $mensagem = addslashes($_POST[mensagem]);
 
 
@@ -38,7 +39,9 @@ if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
 
     Telefone: $telefone
 
-    Data de agendamento: $date";
+    Data de agendamento: $date
+    
+    Horário: $time ";
 
     $mailer->CharSet = 'UTF-8';
     if (!$mailer->Send()) {

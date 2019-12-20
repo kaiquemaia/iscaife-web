@@ -122,7 +122,7 @@
 					<div class="row">
 						<!-- about box start here -->
 						<div class="col-xs-22 col-sm-6 col-md-6 about-box pad-bottom-sm">
-							<span class="title ">O LASER EM PROSTATA: A ANUCLEAÇÃO DA PROSTATA<br> COM HOLMIUM LASER – HoLEP</span>
+							<span class="title ">O LASER EM PROSTATA: A ENUCLEAÇAO DA PROSTATA<br> COM HOLMIUM LASER – HoLEP</span>
 							<span class="divider"></span>
 							<img src="assets/images/laser.png" width="" height="100px" alt="">
 							<p>O procedimento é realizado pela via transuretral onde se utiliza um aparelho que permite a passagem da fibra laser por um de seus canais. Nesse procedimento é possível a retirada completa do adenoma prostático, sem deixar nenhum resíduo que possa crescer no futuro e trazer de volta os mesmos problemas.</p>

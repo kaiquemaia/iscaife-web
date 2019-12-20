@@ -20,6 +20,10 @@
 										<p>Data da consulta:</p>
 											<input type="date" id="date" name="date" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
+										<div class="form-group">
+										<p>Horário:</p>
+											<input type="time" id="date" name="date" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
+										</div>
 
 										<div id="msgSubmit" class="form-message hidden"></div>
 										<span class="info"><i class="fa fa-info-circle main-color" aria-hidden="true"></i> Respondemos o mais rápido possível</span>

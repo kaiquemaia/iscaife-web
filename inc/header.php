@@ -51,7 +51,7 @@
 								<li><a href="index.php#doencas" class="smooth">Doenças</a></li>
 								<li><a href="artigos-cientificos.php" class="smooth">Pesquisas médicas</a></li>
 								<li><a href="atividades-academicas.php" class="smooth">Atividades acadêmicas</a></li>
-								<li><a href="mailto:iscaifeboni@yahoo.com.br">Contato</a></li>
+								<li><a href="contato.php">Contato</a></li>
 								
 								
 								<li class="button"><a href="#popup1" class="btn main-bg-color lightbox text-uppercase smooth">Agendar consulta</a></li>

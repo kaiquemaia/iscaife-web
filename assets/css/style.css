@@ -1896,3 +1896,9 @@ p {
 .tel {
 	font-size: 15px;
 }
+
+.contato {
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background-color: #f7f7f7;
+}

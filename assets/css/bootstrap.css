@@ -1340,7 +1340,8 @@ a.bg-danger:focus {
 ul,
 ol {
   margin-top: 0;
-  margin-bottom: 11.5px; }
+  margin-bottom: 11.5px;
+  font-size: 18px; }
   ul ul,
   ul ol,
   ol ul,
