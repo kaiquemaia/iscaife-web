@@ -22,7 +22,7 @@
 										</div>
 										<div class="form-group">
 										<p>Horário:</p>
-											<input type="time" id="date" name="date" placeholder="Data" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="time" id="time" name="time" placeholder="Horário" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 
 										<div id="msgSubmit" class="form-message hidden"></div>
