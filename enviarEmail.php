@@ -1,4 +1,54 @@
 <?php
+    function cadastraUsuario($value){
+        $arquivo = "json/usuarios.json";
+
+        $jsonUsuarios = file_get_contents($arquivo);
+
+        $arrayUsuarios = json_decode($jsonUsuarios, true);
+
+        array_push($arrayUsuarios["usuarios"], $value);
+
+        $jsonUsuarios = json_encode($arrayUsuarios, JSON_UNESCAPED_SLASHES);
+
+        $cadastrou = file_put_contents($arquivo, $jsonUsuarios);
+
+        return $cadastrou;
+    }
+
+    
+    if($_POST){
+        if($_FILES){
+            if($_FILES["avatar"]["error"] == UPLOAD_ERR_OK){
+               
+
+                $pastaUploads = $raizProjeto . $caminhoJson;
+
+                $caminhoUpload = $pastaUploads . $nomeImg;
+
+                $moveu = move_uploaded_file($nomeTmp, $caminhoUpload);
+            }
+        }
+
+        $nome = $_POST["nome"];
+        $email = $_POST["email"];
+		$telefone = $_POST["telefone"];
+		$date = $_POST["date"];
+		$time = $_POST["time"];
+
+        $novoUsuario = [
+            "nome" => $nome,
+            "email" => $email,
+			"telefone" => $telefone,
+			"date" => $date,
+			"time" => $time,
+
+        ];
+
+        $cadastrou = cadastraUsuario($novoUsuario);
+    }
+?>
+
+<?php
 if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
 	$_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/") {
 
@@ -64,3 +114,5 @@ else{
 }
 
 ?>
+
+

@@ -1,3 +1,53 @@
+<?php
+    function cadastraUsuario($value){
+        $arquivo = "json/usuarios.json";
+
+        $jsonUsuarios = file_get_contents($arquivo);
+
+        $arrayUsuarios = json_decode($jsonUsuarios, true);
+
+        array_push($arrayUsuarios["usuarios"], $value);
+
+        $jsonUsuarios = json_encode($arrayUsuarios, JSON_UNESCAPED_SLASHES);
+
+        $cadastrou = file_put_contents($arquivo, $jsonUsuarios);
+
+        return $cadastrou;
+    }
+
+    
+    if($_POST){
+        if($_FILES){
+            if($_FILES["avatar"]["error"] == UPLOAD_ERR_OK){
+               
+
+                $pastaUploads = $raizProjeto . $caminhoJson;
+
+                $caminhoUpload = $pastaUploads . $nomeImg;
+
+                $moveu = move_uploaded_file($nomeTmp, $caminhoUpload);
+            }
+        }
+
+        $nome = $_POST["nome"];
+        $email = $_POST["email"];
+		$telefone = $_POST["telefone"];
+		$date = $_POST["date"];
+		$time = $_POST["time"];
+
+        $novoUsuario = [
+            "nome" => $nome,
+            "email" => $email,
+			"telefone" => $telefone,
+			"date" => $date,
+			"time" => $time,
+
+        ];
+
+        $cadastrou = cadastraUsuario($novoUsuario);
+    }
+?>
+
 <span id="back-top" class="fa fa-angle-up main-bg-color"></span>
 	    <div class="popup-holder">
 	    	<div id="popup1" class="lightbox">
@@ -5,7 +55,7 @@
 				<section class="quote-form" style="background-image: url(images/img02.jpg);">
 					<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
 					<span class="form-title text-center">Tire suas dúvidas</span>
-					<form id="form-popup" data-toggle="validator" action="enviarEmail.php" method="POST" >
+					<form id="form-popup" data-toggle="validator" action="enviarEmail.php" method="POST" enctype="multipart/form-data" >
 									<fieldset>
 										<div class="form-group">
 											<input type="text" id="name" name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">

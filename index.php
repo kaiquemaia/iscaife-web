@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -89,7 +93,7 @@
 											<input type="tel" id="phone"  name="telefone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group " row="3">
-										<textarea class="form-control" name="textarea" placeholder="Sua dúvida" rows="3"></textarea>
+										<textarea class="form-control" name="textarea" placeholder="Sua dúvida" rows="3" required ></textarea>
 										</div>
 
 										<div id="msgSubmit" class="form-message hidden"></div>
@@ -344,7 +348,7 @@
 											<input type="email" id="email" name="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group col-md-12" row="3">
-										<textarea class="form-control" name="textarea" placeholder="Sua dúvida" rows="3"></textarea>
+										<textarea class="form-control" name="textarea" placeholder="Sua dúvida" rows="3" required ></textarea>
 										</div>
 
 										<div id="msgSubmit" class="form-message hidden"></div>
