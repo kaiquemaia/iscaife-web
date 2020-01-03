@@ -18,7 +18,7 @@
 	<meta name="keywords" content="agency, bootstrap, business, corporate, creative, minimal, modern, onepage, personal, portfolio,  html5, responsive">
 	<meta name="author" content="Swan Lake - Lead Generation Marketing Landing Page">
 	<!-- Page Title -->
-	<title>Dr.Alexandre </title>
+	<title>Dr. Alexandre Iscaife</title>
 	<!-- include the site stylesheet -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700%7cUbuntu:400,700" rel="stylesheet">
 	<!-- include the site stylesheet -->
@@ -63,11 +63,11 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-7">
-							<span class="title">Homem que se cuida não perde o melhor da vida</span>
-							<h1 class="heading text-uppercase"> Urologia  <span class="main-color"> Minimamente Invasiva  </span></h1>
+							<span class="title">A cirurgia minimamente invasiva em urologia realiza procedimentos complexos com mínimo trauma cirúrgico destacando-se o HoLEP, a cirurgia robótica e laparoscópica.</span>
+							<h1 class="heading text-uppercase"> Urologia<span class="main-color"> Minimamente Invasiva</span></h1>
 							<span class="divider white"></span>
 							<div class="btn-holder">
-								<a href="#" class="btn btn-default main-bg-color text-uppercase" data-scroll-nav="2">Saber Mais</a>
+								<a href="cirurgia-minimamente-invasiva.php" class="btn btn-default main-bg-color text-uppercase">Saber Mais</a>
 							</div>
 							<span class="arrow" style="background-image: url(images/arrow.png);"></span>
 						</div>
@@ -77,7 +77,7 @@
 								<h2 class="form-heading text-center text-uppercase">Tire suas dúvidas</h2>
 								<h4 class=" text-center">Sobre HoLEP e cirurgia robótica</h4>
 								<span class="form-title text-center"></span>
-								<form  method="post" data-toggle="validator" action="enviarEmail.php">
+								<form  method="post" data-toggle="validator" action="enviar-duvida.php">
 									<fieldset>
 										<div class="form-group">
 											<input type="text" id="name"  name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">

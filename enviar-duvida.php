@@ -18,6 +18,7 @@ if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
 
     $nome = addslashes($_POST[nome]);
     $email = addslashes($_POST[email]);
+    $telefone = addslashes($_POST[telefone]);
     $mensagem = addslashes($_POST[textarea]);
     // $mensagem = addslashes($_POST[mensagem]);
 
@@ -34,6 +35,8 @@ if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
     Nome: $nome
 
     Email: $email
+
+    Telefone: $telefone
 
     Dúvida: $mensagem";
 

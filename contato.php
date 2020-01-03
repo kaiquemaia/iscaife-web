@@ -18,7 +18,7 @@
 	<meta name="keywords" content="agency, bootstrap, business, corporate, creative, minimal, modern, onepage, personal, portfolio,  html5, responsive">
 	<meta name="author" content="Swan Lake - Lead Generation Marketing Landing Page">
 	<!-- Page Title -->
-	<title>Dr.Alexandre </title>
+	<title>Dr. Alexandre </title>
 	<!-- include the site stylesheet -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700%7cUbuntu:400,700" rel="stylesheet">
 	<!-- include the site stylesheet -->
@@ -67,10 +67,10 @@
                             <span class="divider white"></span>
 
                             <ul class="list-group list-group-flush">
-                                <li class="">(11) 2306-284</li>
-                                <li class="">(11) 98934-5788</li>
-                                <li class="">contato@iscaife.com.br</li>
-                                <li class="">R. Pamplona, 145 - Sala 1517  <br>Jardim Paulista, São Paulo - SP, 01405-000</li>
+                                <li class="">11 2306-2848</li>
+                                <li class="">11 98934-5788</li>
+                                <li class="mailto:contato@iscaife.com.br">contato@iscaife.com.br</li>
+                                <li class="">R. Pamplona, 145 - Sala 1517<br>Jardim Paulista, São Paulo - SP, 01405-000</li>
 
                             </ul>
                             

@@ -4,7 +4,7 @@
 					<div class="col-xs-12 col-sm-2 align-middle">
 						<!-- header logo -->
 						<div class="logo pull-left align-middle">
-							<a href="index.html">
+							<a href="index.php">
 								<img src="assets/images/iscaife-logo.png"  class="img-responsive" width="200px">
 							</a>
 						</div>
@@ -27,13 +27,13 @@
 							<li>
 								<i class="fa fa-envelope"></i>
 								<strong>E-mail:</strong>
-								<a class="tel" href="mailto:Mail@Example.com">contato@iscaife.com.br</a>
+								<a class="tel" href="mailto:contato@iscaife.com.br">contato@iscaife.com.br</a>
 							</li>
 							<li>
 								<i class="fa fa-phone "></i>
 								
-								<a href="tel:1123062848">(11) 2306-2848</a><br>
-								<a href="https://wa.me/11989345788">(11) 98934-5788</a>
+								<a href="tel:1123062848">11 2306-2848</a><br>
+								<a href="https://wa.me/11989345788">11 98934-5788</a>
 							</li>
 						</ul>
 					</div>
