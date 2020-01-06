@@ -36,8 +36,8 @@
 
         .btn {
             padding: 50px;
-            width: 100%;
-            margin: 5px;
+            width: 33%;
+            margin: 0px;
         }
 
 
@@ -51,10 +51,16 @@
             padding: 5px;
         }
 
-        @media only screen and (max-width: 600px) {
-        body {
-            background-color: lightblue;
+        h6 {
+            color: #fff;
         }
+
+        @media only screen and (max-width: 768px) {
+        .btn {
+            width: 100%;
+            margin: 5px;
+  }
+
     }
         
     </style>
@@ -71,58 +77,58 @@
     <a  class="btn btn-light btn-lg" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" ><i class="fa fa-envelope"></i>Por E-mail</a>
     
 
-    <div class="collapse" id="collapseExample">
-  <div class="card card-body">
+    <div class="collapse py-4" id="collapseExample">
+  <div class="card card-body container py-4">
     
-  <?php
-    function cadastraUsuario($value){
-        $arquivo = "json/usuarios.json";
+        <?php
+            function cadastraUsuario($value){
+                $arquivo = "json/usuarios.json";
 
-        $jsonUsuarios = file_get_contents($arquivo);
+                $jsonUsuarios = file_get_contents($arquivo);
 
-        $arrayUsuarios = json_decode($jsonUsuarios, true);
+                $arrayUsuarios = json_decode($jsonUsuarios, true);
 
-        array_push($arrayUsuarios["usuarios"], $value);
+                array_push($arrayUsuarios["usuarios"], $value);
 
-        $jsonUsuarios = json_encode($arrayUsuarios, JSON_UNESCAPED_SLASHES);
+                $jsonUsuarios = json_encode($arrayUsuarios, JSON_UNESCAPED_SLASHES);
 
-        $cadastrou = file_put_contents($arquivo, $jsonUsuarios);
+                $cadastrou = file_put_contents($arquivo, $jsonUsuarios);
 
-        return $cadastrou;
-    }
-
-    
-    if($_POST){
-        if($_FILES){
-            if($_FILES["avatar"]["error"] == UPLOAD_ERR_OK){
-               
-
-                $pastaUploads = $raizProjeto . $caminhoJson;
-
-                $caminhoUpload = $pastaUploads . $nomeImg;
-
-                $moveu = move_uploaded_file($nomeTmp, $caminhoUpload);
+                return $cadastrou;
             }
-        }
 
-        $nome = $_POST["nome"];
-        $email = $_POST["email"];
-		$telefone = $_POST["telefone"];
-		$date = $_POST["date"];
-		$time = $_POST["time"];
+            
+            if($_POST){
+                if($_FILES){
+                    if($_FILES["avatar"]["error"] == UPLOAD_ERR_OK){
+                    
 
-        $novoUsuario = [
-            "nome" => $nome,
-            "email" => $email,
-			"telefone" => $telefone,
-			"date" => $date,
-			"time" => $time,
+                        $pastaUploads = $raizProjeto . $caminhoJson;
 
-        ];
+                        $caminhoUpload = $pastaUploads . $nomeImg;
 
-        $cadastrou = cadastraUsuario($novoUsuario);
-    }
-?>
+                        $moveu = move_uploaded_file($nomeTmp, $caminhoUpload);
+                    }
+                }
+
+                $nome = $_POST["nome"];
+                $email = $_POST["email"];
+                $telefone = $_POST["telefone"];
+                $date = $_POST["date"];
+                $time = $_POST["time"];
+
+                $novoUsuario = [
+                    "nome" => $nome,
+                    "email" => $email,
+                    "telefone" => $telefone,
+                    "date" => $date,
+                    "time" => $time,
+
+                ];
+
+                $cadastrou = cadastraUsuario($novoUsuario);
+            }
+        ?>
 
 
 				<!-- quote form start here -->
@@ -159,9 +165,13 @@
 										<button class="btn btn-default main-bg-color" type="submit" id="form-submit">ENVIAR</button>
 									</fieldset>
 								</form>
-				</section>
+				
 
   </div>
+</div>
+
+<div class="container py-5">
+    <center><a href="https://www.iscaife.com.br/"><h6>Voltar para Home</h6></a></center>
 </div>
 
 
