@@ -23,16 +23,18 @@
       <th scope="col">E-mail</th>
       <th scope="col">Telefone</th>
       <th scope="col">Data da consulta</th>
-      <th scope="col">Horário</th>
+      <th scope="col">Horário consulta</th>
+      <th scope="col"></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-      <td>@mdo</td>
+      <td>Mark@teste.com.br</td>
+      <td>11 98547-8956</td>
+      <td>12/02/2020</td>
+      <td>15:00:02</td>
+      <td>13:42</td>
     </tr>
     <tr>
       <th scope="row">2</th>
@@ -40,6 +42,7 @@
       <td>Thornton</td>
       <td>@fat</td>
       <td>@fat</td>
+      <td>18:42</td>
     </tr>
     <tr>
       <th scope="row">3</th>
@@ -47,6 +50,7 @@
       <td>the Bird</td>
       <td>@twitter</td>
       <td>@fat</td>
+      <td>10:22</td>
     </tr>
     
   </tbody>
