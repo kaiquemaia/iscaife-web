@@ -40,6 +40,8 @@
 	
 </head>
 <body>
+
+
 	<div id="wrapper">
 		<div class="loader-container" id="loader">
 			<div class="holder">
@@ -80,9 +82,11 @@
 							</div> -->
 							<span class="arrow" ></span>
 						</div>
+
+						
 						<div class="col-xs-12 col-sm-6 col-md-5">
 							<!-- quote form start here -->
-							<?php require_once("inc/duvidas.php") ?>
+							<?php require_once("inc/agendar.php")?>
 							<!-- quote form end here -->
 						</div>
 					</div>
@@ -96,8 +100,6 @@
 			<?php require('inc/footer.php') ?>
 			
 
-			<!-- Formulário de contato para agendamento -->
-			<?php require_once("inc/form-agendamento.php") ?>
 
 				<!-- quote form end here -->
 
