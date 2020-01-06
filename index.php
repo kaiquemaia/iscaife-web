@@ -79,7 +79,8 @@
 							<!-- quote form start here -->
 							<section class="quote-form" style="background-image: url(images/img02.jpg);" data-scroll-index="1">
 								<h2 class="form-heading text-center text-uppercase">Tire suas dúvidas</h2>
-								<h4 class=" text-center">Sobre HoLEP e cirurgia robótica</h4>
+								<h4 class=" text-center">Sobre HoLEP e cirurgia robótica <br><br>
+								Fale também pelo telefone: <br> <b><a href="tel:1123062848">(11) 2306-2848</a></b><br><br> ou WhatsApp <br> <b><a href="https://wa.me/11989345788">(11) 98934-5788</a></b></h4>
 								<span class="form-title text-center"></span>
 								<form  method="post" data-toggle="validator" action="enviar-duvida.php">
 									<fieldset>
