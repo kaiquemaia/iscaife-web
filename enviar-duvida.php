@@ -28,7 +28,7 @@ if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
     $mailer->Password = 'agencia@380'; //Senha da caixa postal
     $mailer->FromName = 'Contato pelo site'; //Nome que será exibido para o destinatário
     $mailer->From = 'iscaife@380v.com.br'; //Obrigatório ser a mesma caixa postal indicada em "username"
-    $mailer->AddAddress('iscaife@380v.com.br'); //Destinatários
+    $mailer->AddAddress('contato@iscaife.com.br'); //Destinatários
     $mailer->Subject = 'Dúvida site - ' . date("H:i") . '-' . date("d/m/Y");
     $mailer->Body = "Dados do contato
 

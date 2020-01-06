@@ -53,8 +53,8 @@
 	    	<div id="popup1" class="lightbox">
 				<!-- quote form start here -->
 				<section class="quote-form" style="background-image: url(images/img02.jpg);">
-					<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2>
-					<span class="form-title text-center">Tire suas dúvidas</span>
+					<h2 class="form-heading text-center text-uppercase">Agende sua consulta</h2><br>
+					<span class="form-title text-center">Faça o pré-agendamento da sua consulta no formulário abaixo e aguarde que entraremos em contato com você para confirmar o agendamento. <br><br> Você também pode agendar pelo telefone <br><h4><b>(11) 2306-2848</b> </h4><br>ou WhatsApp <br> <h4><b>(11) 98934-5788</b></h4> </span>
 					<form id="form-popup" data-toggle="validator" action="enviarEmail.php" method="POST" enctype="multipart/form-data" >
 									<fieldset>
 										<div class="form-group">
@@ -72,7 +72,12 @@
 										</div>
 										<div class="form-group">
 										<p>Horário:</p>
-											<input type="time" id="time" name="time" placeholder="Horário" class="form-control" required data-error="NEW ERROR MESSAGE">
+										<select type="select" id="time" name="time" placeholder="Horário" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<option >Manhã</option>
+											<option>Tarde</option>
+											<option>Noite</option>
+										</select>
+
 										</div>
 
 										<div id="msgSubmit" class="form-message hidden"></div>
