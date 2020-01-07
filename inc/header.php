@@ -56,7 +56,7 @@
 								
 								
 								
-								<li class="button"><a href="#popup1" class="btn main-bg-color lightbox text-uppercase smooth">Agendar consulta</a></li>
+								<li class="button"><a href="agendamento.php" class="btn main-bg-color lightbox text-uppercase smooth">Agendar consulta</a></li>
 							</ul>
 						
 				</div>

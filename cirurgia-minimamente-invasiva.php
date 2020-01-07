@@ -78,13 +78,29 @@
 							<span class="title text-uppercase">Dr. Alexandre Iscaife</span>
 							<span class="divider"></span>
 							<h1>Cirurgia Minimamente Invasiva</h1>
-							<p>A <strong>cirurgia minimamente invasiva</strong> revolucionou os procedimentos cirúrgicos simples e complexos utilizando pequenas incisões na pele ou mesmo as cavidades naturais como boca, vagina, ânus, uretra ou somente a cicatriz umbilical. Essa técnica começou a ser desenvolvida no início do século passado, sendo que a primeira peritoneoscopia laparoscópica foi realizada em 1902. A primeira colecistectomia laparoscópica foi realizada em 1980 e desde então diversos tipos de cirurgias laparoscópicas e endoscópicas têm sido realizadas e tornaram-se o padrão ouro dentro de suas áreas cirúrgicas.<br><br>
+							<p>A <strong>cirurgia minimamente invasiva</strong> revolucionou os procedimentos cirúrgicos simples e complexos utilizando pequenas incisões na pele ou mesmo as cavidades naturais como boca, vagina, ânus, uretra ou somente a cicatriz umbilical. 
+							<br><br>
+							<h3>Surgimento da técnica</h3><br>
+							Essa técnica começou a ser desenvolvida no início do século passado, sendo que a primeira peritoneoscopia laparoscópica foi realizada em 1902. A primeira colecistectomia laparoscópica foi realizada em 1980 e desde então diversos tipos de cirurgias laparoscópicas e endoscópicas têm sido realizadas e tornaram-se o padrão ouro dentro de suas áreas cirúrgicas.
+							<br><br>
+							<h3>Vantagens da cirurgia minimamente invasiva</h3><br>
+							Os principais fatores que fizeram a cirurgia minimamente invasiva substituir com vantagem a cirurgia aberta são a rápida recuperação pós-operatória, menos dor e grande benefício estético. <br>
 
-Os principais fatores que fizeram a cirurgia minimamente invasiva substituir com vantagem a cirurgia aberta são a rápida recuperação pós-operatória, menos dor e grande benefício estético. Entretanto, a melhor visualização da cavidade e a possibilidade de operar com pequenas incisões e menor risco infeccioso e de hérnias também devem ser considerados. A abertura e a manipulação das estruturas dentro da cavidade favorecem uma reação inflamatória que pode causar aparecimento de aderências internas. A cirurgia minimamente invasiva evita o aparecimento dessas alterações por reduzirem a manipulação de órgãos intracavitários e o trauma cirúrgico que por sua vez produz reação inflamatória no peritônio.<br><br>
+							Entretanto, a melhor visualização da cavidade e a possibilidade de operar com pequenas incisões, menor risco infeccioso e de hérnias também devem ser considerados. <br>
 
-Com o desenvolvimento da cirurgia robótica e dos lasers em urologia, a cirurgia minimamente invasiva alcançou um novo patamar, estabelecendo-se como o padrão outro para as principais cirurgias urológicas. <br><br>
+							A abertura e a manipulação das estruturas dentro da cavidade favorecem uma reação inflamatória que pode causar aparecimento de aderências internas. <br>
+							 A cirurgia minimamente invasiva evita o aparecimento dessas alterações por reduzirem a manipulação de órgãos intracavitários e o trauma cirúrgico que por sua vez produz reação inflamatória no peritônio. <br>
 
-Nosso foco é o HoLEP (enucleação da próstata a laser) para hiperplasia da próstata e cirurgia robótica para câncer de próstata, de rim e bexiga. As evidências mostram os grandes benefícios do HoLEP em relação a RTU e cirurgia aberta, com um dia de internação, menor risco de sangramento e retirada completa do adenoma em qualquer tamanho de próstata. A cirurgia robótica para o câncer revolucionou a técnica cirúrgica com menor tempo de internação, sangramento e dor pós-operatória.</p>
+							<h3>Os benefícios da técnica HoLEP</h3><br>
+							Com o desenvolvimento da cirurgia robótica e dos lasers em urologia, a cirurgia minimamente invasiva alcançou um novo patamar, estabelecendo-se como o padrão outro para as principais cirurgias urológicas. 
+								<br>
+							Nosso foco é o HoLEP (enucleação da próstata a laser) para hiperplasia da próstata e cirurgia robótica para câncer de próstata, de rim e bexiga. As evidências mostram os grandes benefícios do HoLEP em relação a RTU (Ressecção transuretral de próstata) e cirurgia aberta, com um dia de internação, menor risco de sangramento e retirada completa do adenoma em qualquer tamanho de próstata. 
+							<br>
+							A cirurgia robótica para o câncer revolucionou a técnica cirúrgica com menor tempo de internação, sangramento e dor pós-operatória.
+							<br>
+							Tire todas as suas dúvidas a respeito do tratamento de doenças como a hiperplasia benigna da próstata, câncer de próstata e câncer de rim e câncer.
+						
+						</p>
 
 							</div>
 						<!-- about box end here -->
@@ -97,7 +113,7 @@ Nosso foco é o HoLEP (enucleação da próstata a laser) para hiperplasia da pr
 			<!-- price section end here -->
 			<!-- quote section start here -->
 
-			<?php require_once("inc/agendar.php") ?>
+			
 			
 			<!-- quote section end here -->
 		</main>

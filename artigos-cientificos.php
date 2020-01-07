@@ -228,7 +228,7 @@
 			<!-- price section end here -->
 			<!-- quote section start here -->
 
-			<?php require_once("inc/agendar.php") ?>
+			
 			
 			<!-- quote section end here -->
 		</main>
