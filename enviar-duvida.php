@@ -1,6 +1,6 @@
 <?php
 if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
-	$_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/") {
+	$_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/contato.php") {
 
     require_once("class.phpmailer.php");
 
@@ -56,8 +56,12 @@ if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
 
 }
 else{
-    echo "Acesso não autorizado";
-    exit;
+    ?>
+    <script>
+            alert("Acesso não autorizado");
+            window.location = "https://www.iscaife.com.br/";
+        </script>
+   <?php
 }
 
 ?>
