@@ -33,7 +33,7 @@
             <div class="card bg-dark text-white text-center p-3">
                 <blockquote class="blockquote mb-0">
                   <p>Total de Dúvidas</p>
-                  <h4><p id="">test</p></h4>
+                  <h4><p id="nSendd"></p></h4>
                 </blockquote>
               </div>
               <div class="card bg-warning text-white text-center p-3">
@@ -78,14 +78,14 @@
 
             <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 
-                <table class="table" id="usuarios_table">
+                <table class="table" id="duvidas">
                     <thead class="thead-dark">
                       <tr>
                         <th scope="col">Nome</th>
                         <th scope="col">E-mail</th>
                         <th scope="col">Telefone</th>
-                        <th scope="col">Data da consulta</th>
-                        <th scope="col">Horário consulta</th>
+                        <th scope="col">Dúvida</th>
+                        
                         
                       </tr>
                     </thead>
@@ -100,7 +100,7 @@
     
 
 <script>
-  $.getJSON("../json/usuarios.json", (data) =>{
+  $.getJSON("json/usuarios.json", (data) =>{
     console.log(data.usuarios)
      var i = 0;
     $.each(data.usuarios, (key, value) => {
@@ -116,7 +116,30 @@
 
         i += 1;
     });
-    $('#nSend').append(i)
+    $('#nSend').append(i);
+
+  });
+</script>
+
+<script>
+  $.getJSON("json/duvidas.json", (data) =>{
+    console.log(data.usuarios)
+     var i = 0;
+    $.each(data.usuarios, (key, value) => {
+      $('#duvidas').append(
+        `<tr> 
+          <td>${value.nome}</td> 
+          <td>${value.email}</td> 
+          <td>${value.telefone}</td> 
+          <td>${value.duvida}</td> 
+         
+           
+        </tr>`);
+
+        i += 1;
+    });
+    $('#nSendd').append(i);
+
   });
 </script>
 

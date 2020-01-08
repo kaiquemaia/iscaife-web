@@ -1,4 +1,54 @@
 <?php
+    function cadastraUsuario($value){
+        $arquivo = "dashboard/json/duvidas.json";
+
+        $jsonUsuarios = file_get_contents($arquivo);
+
+        $arrayUsuarios = json_decode($jsonUsuarios, true);
+
+        array_push($arrayUsuarios["usuarios"], $value);
+
+        $jsonUsuarios = json_encode($arrayUsuarios, JSON_UNESCAPED_SLASHES);
+
+        $cadastrou = file_put_contents($arquivo, $jsonUsuarios);
+
+        return $cadastrou;
+    }
+
+    
+    if($_POST){
+        if($_FILES){
+            if($_FILES["avatar"]["error"] == UPLOAD_ERR_OK){
+               
+
+                $pastaUploads = $raizProjeto . $caminhoJson;
+
+                $caminhoUpload = $pastaUploads . $nomeImg;
+
+                $moveu = move_uploaded_file($nomeTmp, $caminhoUpload);
+            }
+        }
+
+        $nome = $_POST["nome"];
+        $email = $_POST["email"];
+		$telefone = $_POST["telefone"];
+		
+		$duvida = $_POST["duvida"];
+
+        $novoUsuario = [
+            "nome" => $nome,
+            "email" => $email,
+			"telefone" => $telefone,
+			"duvida" => $duvida,
+
+        ];
+
+        $cadastrou = cadastraUsuario($novoUsuario);
+    }
+?>
+
+
+<?php
 if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
 	$_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/contato.php") {
 
@@ -19,7 +69,7 @@ if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
     $nome = addslashes($_POST[nome]);
     $email = addslashes($_POST[email]);
     $telefone = addslashes($_POST[telefone]);
-    $mensagem = addslashes($_POST[textarea]);
+    $mensagem = addslashes($_POST[duvida]);
     // $mensagem = addslashes($_POST[mensagem]);
 
 

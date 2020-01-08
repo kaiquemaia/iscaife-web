@@ -1,6 +1,6 @@
 <?php
     function cadastraUsuario($value){
-        $arquivo = "json/usuarios.json";
+        $arquivo = "dashboard/json/usuarios.json";
 
         $jsonUsuarios = file_get_contents($arquivo);
 
@@ -51,7 +51,7 @@
 <?php
 if ($_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/" ||
     $_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/contato.php" ||
-    $_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/contato" ) {
+    $_SERVER[HTTP_REFERER] == "https://www.iscaife.com.br/agendar-consulta.php" ) {
 
     require_once("class.phpmailer.php");
 
