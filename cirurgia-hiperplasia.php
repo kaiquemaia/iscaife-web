@@ -76,7 +76,7 @@
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<!-- <span class="num main-color">01.</span> -->
-							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
+							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata </span>
 							<h4>O tratamento definitivo</h4>
 							<span class="divider"></span>
 							<p>Existem diversas opções cirúrgicas para o tratamento da HPB, podendo sem endoscópico, aberta, laparoscópica ou até robótica. 
@@ -93,7 +93,7 @@
 						</div>
 						<!-- about box end here -->
 						<p>
-						O uso do laser na cirurgia da próstata visa alcançar os maiores índices de sucesso com o mínimo impacto e nesse quesito o laser holmium por meio da enucleaçao da próstata (HoLEP) surge como o novo padrão no tratamento de qualquer próstata, independente do tamanho. Toda a cirurgia é realizada por via endoscópica, sem nenhum corte, o tempo de sonda e permanência no hospital é de um dia (24hs) em média, o sangramento é mínimo e por essa técnica todo o adenoma é retirado reduzindo praticamente a zero a chance de novo crescimento. Próstatas extremamente grandes, como 300g, podem ser tratadas por esse método. O retorno as atividades diárias é precoce desde que respeitadas as orientações do cirurgião
+						O uso do laser na cirurgia da próstata visa alcançar os maiores índices de sucesso com o mínimo impacto e nesse quesito o laser holmium por meio da enucleaçao da próstata (HoLEP) surge como o novo padrão no tratamento de qualquer próstata, independente do tamanho. Toda a cirurgia é realizada por via endoscópica, sem nenhum corte, o tempo de sonda e permanência no hospital é de um dia (24hs) em média, o sangramento é mínimo e por essa técnica todo o adenoma é retirado reduzindo praticamente a zero a chance de novo crescimento. Próstatas extremamente grandes, como 300g, podem ser tratadas por esse método. O retorno as atividades diárias é precoce desde que respeitadas as orientações do cirurgião. 
 						<br><br>
 						Um dos grandes limitantes para essa cirurgia (HoLEP) é a curva de aprendizado do cirurgião (número de cirurgias necessárias para adquirir proficiência), que deve realizar muitos procedimentos sob supervisão de um proctor (instrutor) para estar apto a realizar essa cirurgia (30 cirurgias em média). O Dr. Alexandre Iscaife tem larga experiência no Brasil e na Itália, com alto volume cirúrgico de HoLEP sendo um dos proctors autorizados pela Holmium Academy para realizar e ensinar o HoLEP para outros urologistas interessados em desenvolver o método no Brasil. 
 						<br><br>

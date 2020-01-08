@@ -39,7 +39,7 @@
 	<link rel="stylesheet" href="assets/css/color.css">
 	<!-- Font Awsome -->
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-	
+	<script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
 	
 	
 </head>
@@ -313,13 +313,13 @@
 							<h4 class=" text-center">Sobre HoLEP e cirurgia robótica</h4><br>
 									<fieldset>
 										<div class="form-group col-md-6">
-											<input type="text" id="name" name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="text" id="name2" name="nome2" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group col-md-6">
-											<input type="tel" id="phone"  name="telefone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="tel" id="phone2"  name="telefone2" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group col-md-12">
-											<input type="email" id="email" name="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="email" id="email2" name="email2" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group col-md-12" row="3">
 										<textarea class="form-control" name="textarea" placeholder="Sua dúvida" rows="3" required ></textarea>
@@ -327,7 +327,7 @@
 
 										<div id="msgSubmit" class="form-message hidden"></div>
 										<span class="info"><i class="fa fa-info-circle main-color" aria-hidden="true"></i> Respondemos o mais rápido possível</span><br>
-										<button class="btn btn-default main-bg-color" type="submit" id="form-submit">ENVIAR</button>
+										<button class="btn btn-default main-bg-color" type="submit" id="form-submit2">ENVIAR</button>
 									</fieldset>
 								</form>
 								

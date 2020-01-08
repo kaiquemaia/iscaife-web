@@ -1,6 +1,6 @@
 <?php
     function cadastraUsuario($value){
-        $arquivo = "json/usuarios.json";
+        $arquivo = "dashboard/json/usuarios.json";
 
         $jsonUsuarios = file_get_contents($arquivo);
 
@@ -48,6 +48,7 @@
     }
 ?>
 
+
 <span id="back-top" class="fa fa-angle-up main-bg-color"></span>
 	    <div class="popup-holder">
 	    	<div id="popup1" class="lightbox">
@@ -61,7 +62,7 @@
 											<input type="text" id="name" name="nome" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
-											<input type="email" id="email" name="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
+											<input type="email"  name="email" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
 										</div>
 										<div class="form-group">
 											<input type="tel" id="phone" name="telefone" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
