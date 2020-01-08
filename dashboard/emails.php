@@ -36,10 +36,10 @@
                   <h4><p id="nSendd"></p></h4>
                 </blockquote>
               </div>
-              <div class="card bg-warning text-white text-center p-3">
+              <div class="card bg-warning text-white text-center p-3 disabled">
                   <blockquote class="blockquote mb-0">
-                    <p>Total de E-mails</p>
-                    <h4><p id="">test</p></h4>
+                    <p>Relatórios</p>
+                    <h4><p id="">Em breve</p></h4>
                   </blockquote>
                 </div>
                 </div>
