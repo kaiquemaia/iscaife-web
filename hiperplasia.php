@@ -129,7 +129,7 @@
 			<!-- quote section start here -->
 
 			<!-- Section ( Agende sua consulta agora!) -->
-			<?php require_once("inc/agendar.php") ?>
+			
 
 		</main>
 		
