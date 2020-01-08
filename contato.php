@@ -97,7 +97,7 @@
 			
 
 			<!-- Formulário de contato para agendamento -->
-			<?php require_once("inc/form-agendamento.php") ?>
+			
 
 				<!-- quote form end here -->
 
