@@ -79,9 +79,9 @@
 							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata </span>
 							<h4>O tratamento definitivo</h4>
 							<span class="divider"></span>
-							<p>Existem diversas opções cirúrgicas para o tratamento da HPB, podendo sem endoscópico, aberta, laparoscópica ou até robótica. 
+							<p>Existem diversas opções cirúrgicas para o tratamento da HPB, podendo ser endoscópica, aberta, laparoscópica ou até robótica. 
 							<br><br>
-							A abordagem mais utilizada é a RTU (ressecção transuretral da próstata), mas é reservado para próstatas de tamanho médio e pequeno, o paciente permanece no hospital por 3-4 dias para irrigação vesical e nem sempre é uma cirurgia completa. As cirurgias abertas como a PTV (prostatectomia transvesical) e o Millin foram por muito tempo o padrão para próstatas grandes, mas atualmente tanto as próstatas medias como as grandes podem ser operadas com vantagens utilizando-se o laser.
+							A abordagem mais utilizada é a RTU (Ressecção Transuretral da Próstata), mas é reservado para próstatas de tamanho médio e pequeno, o paciente permanece no hospital entre 3 e 4 dias para irrigação vesical e nem sempre é uma cirurgia completa. As cirurgias abertas como a PTV (Prostatectomia Transvesical) e o Millin foram por muito tempo o padrão para próstatas grandes, mas atualmente tanto as próstatas médias como as grandes podem ser operadas com vantagens utilizando-se o laser.
 							</p>
 							
 						</div>
@@ -93,14 +93,14 @@
 						</div>
 						<!-- about box end here -->
 						<p>
-						O uso do laser na cirurgia da próstata visa alcançar os maiores índices de sucesso com o mínimo impacto e nesse quesito o laser holmium por meio da enucleaçao da próstata (HoLEP) surge como o novo padrão no tratamento de qualquer próstata, independente do tamanho. Toda a cirurgia é realizada por via endoscópica, sem nenhum corte, o tempo de sonda e permanência no hospital é de um dia (24hs) em média, o sangramento é mínimo e por essa técnica todo o adenoma é retirado reduzindo praticamente a zero a chance de novo crescimento. Próstatas extremamente grandes, como 300g, podem ser tratadas por esse método. O retorno as atividades diárias é precoce desde que respeitadas as orientações do cirurgião. 
+						O uso do laser na cirurgia da próstata visa alcançar os maiores índices de sucesso com o mínimo impacto, e nesse quesito o laser holmium por meio da enucleação da próstata (HoLEP) surge como o novo padrão no tratamento de qualquer próstata, independentemente do tamanho. Toda a cirurgia é realizada por via endoscópica, sem nenhum corte. O tempo de sonda e permanência no hospital é de um dia (24h) em média, o sangramento é mínimo e por essa técnica todo o adenoma é retirado, reduzindo praticamente a zero a chance de novo crescimento. Próstatas extremamente grandes, como as que pesam 300g, podem ser tratadas por esse método. O retorno às atividades diárias é precoce, desde que sejam respeitadas as orientações do cirurgião. 
 						<br><br>
-						Um dos grandes limitantes para essa cirurgia (HoLEP) é a curva de aprendizado do cirurgião (número de cirurgias necessárias para adquirir proficiência), que deve realizar muitos procedimentos sob supervisão de um proctor (instrutor) para estar apto a realizar essa cirurgia (30 cirurgias em média). O Dr. Alexandre Iscaife tem larga experiência no Brasil e na Itália, com alto volume cirúrgico de HoLEP sendo um dos proctors autorizados pela Holmium Academy para realizar e ensinar o HoLEP para outros urologistas interessados em desenvolver o método no Brasil. 
+						Um dos grandes limitantes para essa cirurgia (HoLEP) é a curva de aprendizado do cirurgião (número de cirurgias necessárias para adquirir proficiência), que deve realizar muitos procedimentos sob supervisão de um proctor (instrutor) para estar apto a realizar essa cirurgia (30 cirurgias em média). O Dr. Alexandre Iscaife tem larga experiência no Brasil e na Itália, com alto volume cirúrgico de HoLEP sendo um dos proctors autorizados pela Holmium Academy para realizar e ensinar o HoLEP para outros urologistas interessados em desenvolver o método no Brasil.
 						<br><br>
 						<h1>O que esperar após o HoLEP</h1>
-						Após a retirada da sonda que ocorre geralmente no dia seguinte a cirurgia o fluxo ainda ficará um pouco alterado por cerca de 3 dias (adaptação da bexiga), após isso ele se manterá forte e contínuo. Pequenos coágulos e urina avermelhada são comuns nos primeiros dias, mas após 1 semana já se torna praticamente normal. Algum grau de ardência ao urinar pode existir por alguns dias e com medicações anti-inflamatórias (profenid, voltaren) e analgésicas (dipirona, paracetamol) os sintomas melhoram e cessam. Existem pacientes com bexiga hiperativa e outros com próstatas muito inflamadas e fibrosas em que a ardência pode persistir por tempo maior, mas é extremamente raro.
+						Após a retirada da sonda que ocorre geralmente no dia seguinte, a cirurgia do fluxo ainda o deixará um pouco alterado por cerca de 3 dias (adaptação da bexiga). Após esse período, ele se manterá forte e contínuo. Pequenos coágulos e urina avermelhada são comuns nos primeiros dias, mas após uma semana o fluxo já se torna praticamente normal. Algum grau de ardência ao urinar pode existir por alguns dias, e com medicações anti-inflamatórias (profenid, voltaren) e analgésicas (dipirona, paracetamol) os sintomas melhoram e cessam. Existem pacientes com bexiga hiperativa e outros com próstatas muito inflamadas e fibrosas em que a ardência pode persistir por tempo maior, mas é extremamente raro.
 						<br><br>
-						Após a alta o paciente pode realizar suas atividades normais, evitando apenas atividade física e relação sexual. Com 15 dias de pós-operatório as atividades físicas são recomendadas e também será liberada a atividade sexual. 
+						Após a alta, o paciente pode realizar suas atividades normais, evitando apenas atividade física e relação sexual. Com 15 dias de pós-operatório as atividades físicas são recomendadas e também será liberada a atividade sexual.
 						</p>
 					</div>
 					<div></div>

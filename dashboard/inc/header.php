@@ -10,7 +10,7 @@
               <a class="nav-link" href="#"> Início <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="emails.php">E-mails</a>
+              <a class="nav-link" href="#">E-mails</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle disabled" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -27,7 +27,7 @@
             
           </ul>
           <form class="form-inline my-2 my-lg-0">
-          
+           
             <i class="fa fa-bolt text-warning"></i>
           </form>
         </div>
