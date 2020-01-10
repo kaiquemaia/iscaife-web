@@ -32,7 +32,6 @@
         $nome = $_POST["nome"];
         $email = $_POST["email"];
 		$telefone = $_POST["telefone"];
-		
 		$duvida = $_POST["duvida"];
 
         $novoUsuario = [

@@ -242,7 +242,7 @@
 								
 									<p>A partir dos quarenta anos inicia-se um processo de crescimento da zona de transição da próstata, na região peri-uretral, que acometerá 80% dos homens. Esse crescimento não causa necessariamente sintomas de obstrução em todos os homens, mas sim em 30-60% de todos acima dos 65 anos.</p>
 									<a href="hiperplasia.php" class="order text-uppercase lightbox px-4">Ler mais</a>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
+									<a href="agendamento.php" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
 								</div>
 							</div>
 							<!-- price box end here -->
@@ -266,7 +266,7 @@
 
 									<p>O câncer de próstata (CaP) é a neoplasia mais frequente no homem, excetuando-se os tumores de pele. O principal fator de risco é a idade, sendo 65 anos a idade média ao diagnostico. Antes dos 40 anos sua ocorrência é extremamente rara. </p>
 									<a href="cancer-de-prostata.php" class="order text-uppercase lightbox px-4">Ler mais</a>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
+									<a href="agendamento.php" class="order text-uppercase lightbox px-4">Agendar Consulta</a>
 								</div>
 							</div>
 							<!-- price box end here -->
@@ -288,7 +288,7 @@
 
 									<p>O carcinoma de células renais (CCR) é também conhecido como câncer de células renais. Cerca de 9 em cada 10 cânceres renais são carcinomas de células renais. Embora o CCR geralmente cresça como um único tumor dentro de um rim, às vezes há dois ou mais tumores em um rim ou até mesmo tumores em ambos os rins ao mesmo tempo.</p>
 									<a href="cancer-de-rim.php" class="order text-uppercase lightbox px-4">Ler mais</a>
-									<a href="#popup1" class="order text-uppercase lightbox px-4">Agendar consulta</a>
+									<a href="agendamento.php" class="order text-uppercase lightbox px-4">Agendar consulta</a>
 								</div>
 							</div>
 							<!-- price box end here -->
@@ -308,28 +308,7 @@
 					<div class="row">
 						<div class="col-cs-12 col-sm-10 col-lg-8 col-sm-push-5 col-lg-push-2 text-center">
 						
-						<form id="duvida" data-toggle="validator" action="enviar-duvida.php" method="POST" >
-							<h1><center>Dúvidas</center></h1>
-							<h4 class=" text-center">Sobre HoLEP e cirurgia robótica</h4><br>
-									<fieldset>
-										<div class="form-group col-md-6">
-											<input type="text" id="name2" name="nome2" placeholder="Seu nome" class="form-control" required data-error="NEW ERROR MESSAGE">
-										</div>
-										<div class="form-group col-md-6">
-											<input type="tel" id="phone2"  name="telefone2" placeholder="Seu Telefone" class="form-control" required data-error="NEW ERROR MESSAGE">
-										</div>
-										<div class="form-group col-md-12">
-											<input type="email" id="email2" name="email2" placeholder="Seu E-mail" class="form-control" required data-error="NEW ERROR MESSAGE">
-										</div>
-										<div class="form-group col-md-12" row="3">
-										<textarea class="form-control" name="textarea" placeholder="Sua dúvida" rows="3" required ></textarea>
-										</div>
-
-										<div id="msgSubmit" class="form-message hidden"></div>
-										<span class="info"><i class="fa fa-info-circle main-color" aria-hidden="true"></i> Respondemos o mais rápido possível</span><br>
-										<button class="btn btn-default main-bg-color" type="submit" id="form-submit2">ENVIAR</button>
-									</fieldset>
-								</form>
+						<?php require_once("inc/duvidas2.php") ?>
 								
 						</div>
 					</div>
