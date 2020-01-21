@@ -75,7 +75,7 @@
 						<!-- about box start here -->
 						<div class="col-xs-12 col-sm-6 col-md-6 about-box pad-bottom-sm">
 							<!-- <span class="num main-color">01.</span> -->
-							<span class="title text-uppercase">A cirurgia para hiperplasia da próstata</span>
+							<span class="title text-uppercase">Cancêr de próstata</span>
 							<span class="divider"></span>
 							<h1>Breve epidemiologia</h1>
 							<p>O câncer de próstata (CaP) é a neoplasia mais frequente no homem, excetuando-se os tumores de pele. O principal fator de risco é a idade, sendo 65 anos a idade média ao diagnostico. Antes dos 40 anos sua ocorrência é extremamente rara. Outros fatores de risco são a raça (afrodescendentes têm maior chance de ter CaP e maior risco de tumores de tipo mais grave), o estilo de vida sedentário e a obesidade e antecedentes familiares de CaP (em parente de primeiro grau).</p>
